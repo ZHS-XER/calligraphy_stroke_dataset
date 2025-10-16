@@ -1,0 +1,13 @@
+[project]
+name = "calligraphy-stroke-dataset"
+version = "0.1.0"
+description = "Extract Chinese character stroke sequences from PDF to create a dataset"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pymupdf>=1.23.0",
+    "pillow>=10.0.0",
+    "opencv-python>=4.8.0",
+    "numpy>=1.24.0",
+    "requests>=2.31.0",
+]

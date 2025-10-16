@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# 输入文件（用户提供）
+inputs/*.pdf
+
+# 生成的中间和最终文件
+character_strokes.json
+stroke_analysis_results*.json
+half-done/
+dataset/
+
+# macOS
+.DS_Store
