@@ -1,0 +1,1120 @@
+[
+  {
+    "character": "一",
+    "stroke_count": 1,
+    "strokes": [
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "七",
+    "stroke_count": 2,
+    "strokes": [
+      "横",
+      "竖弯钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "三",
+    "stroke_count": 3,
+    "strokes": [
+      "横",
+      "横",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "上",
+    "stroke_count": 3,
+    "strokes": [
+      "竖",
+      "横",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "下",
+    "stroke_count": 3,
+    "strokes": [
+      "横",
+      "竖",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "不",
+    "stroke_count": 4,
+    "strokes": [
+      "横",
+      "撇",
+      "竖",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "业",
+    "stroke_count": 5,
+    "strokes": [
+      "竖",
+      "横",
+      "撇",
+      "竖",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "东",
+    "stroke_count": 5,
+    "strokes": [
+      "横",
+      "撇",
+      "竖弯钩",
+      "撇",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "两",
+    "stroke_count": 7,
+    "strokes": [
+      "横",
+      "竖",
+      "横折钩",
+      "撇",
+      "捺",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "个",
+    "stroke_count": 3,
+    "strokes": [
+      "撇",
+      "捺",
+      "竖"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "中",
+    "stroke_count": 4,
+    "strokes": [
+      "竖",
+      "横折",
+      "竖",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "九",
+    "stroke_count": 2,
+    "strokes": [
+      "撇",
+      "横折弯钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "也",
+    "stroke_count": 3,
+    "strokes": [
+      "横折钩",
+      "竖",
+      "竖弯钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "书",
+    "stroke_count": 4,
+    "strokes": [
+      "横折",
+      "竖钩",
+      "点",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "了",
+    "stroke_count": 2,
+    "strokes": [
+      "横撇",
+      "竖钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "二",
+    "stroke_count": 2,
+    "strokes": [
+      "横",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "云",
+    "stroke_count": 4,
+    "strokes": [
+      "横",
+      "横",
+      "撇折",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "五",
+    "stroke_count": 4,
+    "strokes": [
+      "横",
+      "竖",
+      "横折",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "人",
+    "stroke_count": 2,
+    "strokes": [
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "今",
+    "stroke_count": 4,
+    "strokes": [
+      "撇",
+      "捺",
+      "竖",
+      "横折钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "儿",
+    "stroke_count": 2,
+    "strokes": [
+      "撇",
+      "竖弯钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "入",
+    "stroke_count": 2,
+    "strokes": [
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "八",
+    "stroke_count": 2,
+    "strokes": [
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "公",
+    "stroke_count": 4,
+    "strokes": [
+      "撇",
+      "捺",
+      "撇",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "六",
+    "stroke_count": 4,
+    "strokes": [
+      "点",
+      "横",
+      "撇",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "几",
+    "stroke_count": 2,
+    "strokes": [
+      "撇",
+      "弯钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "出",
+    "stroke_count": 5,
+    "strokes": [
+      "竖折",
+      "竖",
+      "竖",
+      "竖折",
+      "竖"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "力",
+    "stroke_count": 2,
+    "strokes": [
+      "横折钩",
+      "撇"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "十",
+    "stroke_count": 2,
+    "strokes": [
+      "横",
+      "竖"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "升",
+    "stroke_count": 4,
+    "strokes": [
+      "撇",
+      "竖",
+      "横",
+      "竖"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "半",
+    "stroke_count": 5,
+    "strokes": [
+      "点",
+      "撇",
+      "横",
+      "竖",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "卜",
+    "stroke_count": 2,
+    "strokes": [
+      "竖",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "又",
+    "stroke_count": 2,
+    "strokes": [
+      "横撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "口",
+    "stroke_count": 3,
+    "strokes": [
+      "竖",
+      "横折",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "右",
+    "stroke_count": 5,
+    "strokes": [
+      "横",
+      "撇",
+      "竖",
+      "横折",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "四",
+    "stroke_count": 5,
+    "strokes": [
+      "竖",
+      "横折",
+      "撇",
+      "竖弯钩",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "回",
+    "stroke_count": 6,
+    "strokes": [
+      "竖",
+      "横折",
+      "竖",
+      "横折",
+      "横",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "土",
+    "stroke_count": 3,
+    "strokes": [
+      "横",
+      "竖",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "大",
+    "stroke_count": 3,
+    "strokes": [
+      "横",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "天",
+    "stroke_count": 4,
+    "strokes": [
+      "横",
+      "横",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "头",
+    "stroke_count": 5,
+    "strokes": [
+      "点",
+      "点",
+      "横",
+      "撇",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "子",
+    "stroke_count": 3,
+    "strokes": [
+      "横撇",
+      "竖弯钩",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "小",
+    "stroke_count": 3,
+    "strokes": [
+      "竖钩",
+      "撇",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "少",
+    "stroke_count": 4,
+    "strokes": [
+      "竖",
+      "撇",
+      "撇",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "尺",
+    "stroke_count": 4,
+    "strokes": [
+      "撇",
+      "竖",
+      "横",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "山",
+    "stroke_count": 3,
+    "strokes": [
+      "竖",
+      "竖折",
+      "竖"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "左",
+    "stroke_count": 5,
+    "strokes": [
+      "横",
+      "撇",
+      "横",
+      "竖",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "已",
+    "stroke_count": 3,
+    "strokes": [
+      "横折",
+      "竖弯",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "巴",
+    "stroke_count": 4,
+    "strokes": [
+      "横",
+      "竖",
+      "竖折",
+      "竖弯钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "巾",
+    "stroke_count": 3,
+    "strokes": [
+      "竖",
+      "横折",
+      "竖"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "平",
+    "stroke_count": 5,
+    "strokes": [
+      "横",
+      "竖",
+      "撇",
+      "点",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "年",
+    "stroke_count": 6,
+    "strokes": [
+      "撇",
+      "横",
+      "横",
+      "竖",
+      "横",
+      "竖"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "广",
+    "stroke_count": 3,
+    "strokes": [
+      "点",
+      "横",
+      "撇"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "开",
+    "stroke_count": 4,
+    "strokes": [
+      "横",
+      "横",
+      "撇",
+      "竖"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "心",
+    "stroke_count": 4,
+    "strokes": [
+      "点",
+      "卧钩",
+      "点",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "手",
+    "stroke_count": 4,
+    "strokes": [
+      "撇",
+      "撇",
+      "横",
+      "竖钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "文",
+    "stroke_count": 4,
+    "strokes": [
+      "点",
+      "横",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "方",
+    "stroke_count": 4,
+    "strokes": [
+      "点",
+      "横",
+      "横折钩",
+      "撇"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "无",
+    "stroke_count": 4,
+    "strokes": [
+      "横",
+      "横",
+      "撇",
+      "竖弯钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "日",
+    "stroke_count": 4,
+    "strokes": [
+      "竖",
+      "横折",
+      "横",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "月",
+    "stroke_count": 4,
+    "strokes": [
+      "撇",
+      "横折钩",
+      "横",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "木",
+    "stroke_count": 4,
+    "strokes": [
+      "横",
+      "竖",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "本",
+    "stroke_count": 5,
+    "strokes": [
+      "横",
+      "竖",
+      "撇",
+      "捺",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "来",
+    "stroke_count": 7,
+    "strokes": [
+      "横",
+      "竖",
+      "撇",
+      "点",
+      "横",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "果",
+    "stroke_count": 8,
+    "strokes": [
+      "竖",
+      "横折",
+      "横",
+      "横",
+      "横",
+      "竖",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "正",
+    "stroke_count": 5,
+    "strokes": [
+      "横",
+      "竖",
+      "横",
+      "竖",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "毛",
+    "stroke_count": 4,
+    "strokes": [
+      "撇",
+      "横",
+      "竖",
+      "竖弯钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "水",
+    "stroke_count": 4,
+    "strokes": [
+      "竖钩",
+      "横撇",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "火",
+    "stroke_count": 4,
+    "strokes": [
+      "点",
+      "撇",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "片",
+    "stroke_count": 4,
+    "strokes": [
+      "撇",
+      "竖",
+      "横",
+      "竖提"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "牙",
+    "stroke_count": 4,
+    "strokes": [
+      "横",
+      "竖钩",
+      "撇",
+      "竖弯钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "牛",
+    "stroke_count": 4,
+    "strokes": [
+      "撇",
+      "横",
+      "竖",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "瓜",
+    "stroke_count": 5,
+    "strokes": [
+      "撇",
+      "竖钩",
+      "撇",
+      "捺",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "生",
+    "stroke_count": 5,
+    "strokes": [
+      "撇",
+      "横",
+      "横",
+      "竖",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "用",
+    "stroke_count": 5,
+    "strokes": [
+      "撇",
+      "横折钩",
+      "横",
+      "横",
+      "竖"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "田",
+    "stroke_count": 5,
+    "strokes": [
+      "竖",
+      "横折",
+      "横",
+      "竖",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "电",
+    "stroke_count": 5,
+    "strokes": [
+      "竖",
+      "横折",
+      "横",
+      "横",
+      "竖弯钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "白",
+    "stroke_count": 5,
+    "strokes": [
+      "撇",
+      "竖",
+      "横折",
+      "横",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "皮",
+    "stroke_count": 5,
+    "strokes": [
+      "横钩",
+      "撇",
+      "竖",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "目",
+    "stroke_count": 5,
+    "strokes": [
+      "竖",
+      "横折",
+      "横",
+      "横",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "禾",
+    "stroke_count": 5,
+    "strokes": [
+      "撇",
+      "横",
+      "竖",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "米",
+    "stroke_count": 6,
+    "strokes": [
+      "点",
+      "撇",
+      "横",
+      "竖",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "羊",
+    "stroke_count": 6,
+    "strokes": [
+      "点",
+      "撇",
+      "横",
+      "横",
+      "横",
+      "竖"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "耳",
+    "stroke_count": 6,
+    "strokes": [
+      "横",
+      "竖",
+      "竖",
+      "横",
+      "横",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "自",
+    "stroke_count": 6,
+    "strokes": [
+      "撇",
+      "竖",
+      "横折",
+      "横",
+      "横",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "衣",
+    "stroke_count": 6,
+    "strokes": [
+      "点",
+      "横",
+      "撇",
+      "竖提",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "西",
+    "stroke_count": 6,
+    "strokes": [
+      "横",
+      "竖",
+      "横折",
+      "撇",
+      "竖",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "见",
+    "stroke_count": 4,
+    "strokes": [
+      "竖",
+      "横折",
+      "撇",
+      "竖弯钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "走",
+    "stroke_count": 7,
+    "strokes": [
+      "横",
+      "竖",
+      "横",
+      "撇",
+      "横",
+      "竖",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "足",
+    "stroke_count": 7,
+    "strokes": [
+      "竖",
+      "横折",
+      "横",
+      "横",
+      "竖",
+      "撇",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "车",
+    "stroke_count": 4,
+    "strokes": [
+      "横",
+      "竖",
+      "横折",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "里",
+    "stroke_count": 7,
+    "strokes": [
+      "竖",
+      "横折",
+      "横",
+      "横",
+      "竖",
+      "横",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "长",
+    "stroke_count": 4,
+    "strokes": [
+      "撇",
+      "横",
+      "竖提",
+      "捺"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "门",
+    "stroke_count": 3,
+    "strokes": [
+      "点",
+      "竖",
+      "横折钩"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "雨",
+    "stroke_count": 8,
+    "strokes": [
+      "横",
+      "竖",
+      "横折钩",
+      "竖",
+      "点",
+      "点",
+      "点",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "风",
+    "stroke_count": 4,
+    "strokes": [
+      "撇",
+      "横折斜钩",
+      "撇",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "飞",
+    "stroke_count": 3,
+    "strokes": [
+      "斜钩",
+      "撇",
+      "点"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "马",
+    "stroke_count": 3,
+    "strokes": [
+      "横折",
+      "竖折折钩",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "鱼",
+    "stroke_count": 8,
+    "strokes": [
+      "撇",
+      "横撇",
+      "竖",
+      "横折钩",
+      "竖",
+      "横",
+      "竖",
+      "横"
+    ],
+    "image_count": 12
+  },
+  {
+    "character": "鸟",
+    "stroke_count": 5,
+    "strokes": [
+      "撇",
+      "横折钩",
+      "点",
+      "竖折折钩",
+      "横"
+    ],
+    "image_count": 12
+  }
+]

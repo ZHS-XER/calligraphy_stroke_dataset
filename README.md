@@ -1,6 +1,53 @@
 # 汉字笔画数据集
 
+- 由https://www.an2.net/zi/获取自动生成的带笔顺字帖 pdf 文件
+- 由https://github.com/DongSky/zhHanSequence/blob/master/bihua.txt获取汉字笔顺查找表
+（可能不齐全 必要时手动补齐）
+# 汉字笔画数据集（最简用法）
+
 从练字 PDF 提取每行格子图，再按笔画信息分配到每个字的文件夹。
+
+## 项目结构
+
+```
+.
+├── inputs/                  # 输入文件
+│   ├── hanzi.txt           # 汉字清单（按顺序）
+│   └── *.pdf               # 练字 PDF
+├── bihua.txt               # 笔画字典（20,795+ 字）
+├── character_strokes.json  # 生成的笔画映射
+├── half-done/              # 中间结果（每行12格）
+│   ├── row_0000/
+│   │   ├── cell_00.png
+│   │   └── ...
+│   └── summary.txt
+├── dataset/                # 最终数据集 ⭐
+│   ├── 一/
+│   │   ├── stroke_00.png  # 整字图
+│   │   ├── stroke_01.png  # 第1笔
+│   │   ├── stroke_info.json
+│   │   └── ...
+│   ├── 二/
+│   └── ...
+└── main.py, allocate_characters.py, ...
+```
+
+## 最终数据集效果
+
+每个字符文件夹（如 `dataset/一/`）包含：
+- **stroke_00.png**：完整汉字图片
+- **stroke_01.png ~ stroke_XX.png**：按笔顺排列的各笔画图片
+- **stroke_info.json**：笔画元数据
+  ```json
+  {
+    "character": "一",
+    "stroke_count": 1,
+    "strokes": ["横"],
+    "total_images": 2
+  }
+  ```
+
+所有图片经二值化处理后，笔画为纯黑色（0），背景为纯白色（255），适用于 OCR、笔画识别等机器学习任务。
 
 
 1) 生成笔画映射（基于 hanzi.txt + bihua.txt）

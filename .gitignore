@@ -9,14 +9,14 @@ wheels/
 # Virtual environments
 .venv
 
-# 输入文件（用户提供）
-inputs/*.pdf
+# # 输入文件（用户提供）
+# inputs/*.pdf
 
-# 生成的中间和最终文件
-character_strokes.json
-stroke_analysis_results*.json
-half-done/
-dataset/
+# # 生成的中间和最终文件
+# character_strokes.json
+# stroke_analysis_results*.json
+# half-done/
+# dataset/
 
 # macOS
 .DS_Store
