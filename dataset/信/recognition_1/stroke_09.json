@@ -1,0 +1,113 @@
+{
+  "character": "信",
+  "stroke_name": "stroke_09",
+  "image_path": "dataset/信/stroke_09.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "信",
+        "probabilities": [
+          {
+            "char": "信",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构，笔画完整清晰。左部为“亻”旁（单人旁），右部为“言”字。这两个部件组合唯一构成了汉字“信”。字形为标准的楷书，不存在明显的歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "信",
+        "probabilities": [
+          {
+            "char": "信",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为部首“人”字旁（亻），右部为“言”字。两者结合唯一确定为汉字“信”。字形标准，笔画清晰完整，不存在歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "信",
+        "probabilities": [
+          {
+            "char": "信",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“亻”（单人旁），右部为“言”。两者结合构成汉字“信”。字形结构清晰，笔画完整，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "信",
+        "probabilities": [
+          {
+            "char": "信",
+            "p": 0.95
+          },
+          {
+            "char": "仁",
+            "p": 0.03
+          },
+          {
+            "char": "任",
+            "p": 0.02
+          }
+        ],
+        "rationale": "该汉字为标准的左右结构。左部为“人”字旁（亻），右部为“言”字。这两个部首组合构成的唯一常用汉字是“信”。该字笔画完整、结构清晰，几乎没有歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "信",
+        "probabilities": [
+          {
+            "char": "信",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“人”字旁（亻），右部为“言”字。这两个部首组合构成了唯一的汉字“信”。字形为标准的楷书，笔画清晰，没有与其他汉字混淆的可能。"
+      }
+    }
+  ]
+}

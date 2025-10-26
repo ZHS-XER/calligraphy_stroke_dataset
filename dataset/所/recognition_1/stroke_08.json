@@ -1,0 +1,113 @@
+{
+  "character": "所",
+  "stroke_name": "stroke_08",
+  "image_path": "dataset/所/stroke_08.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "所",
+        "probabilities": [
+          {
+            "char": "所",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“户”字旁，右部为“斤”字。这两个部件组合构成的汉字是“所”。图像中的字形标准清晰，所有笔画均已完成，没有其他可能的候选汉字。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "所",
+        "probabilities": [
+          {
+            "char": "所",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为标准的左右结构。左部为“户”字旁，右部为“斤”。所有笔画均已写完，字形为标准楷书，特征非常明确，无明显歧义，可以唯一确定为“所”字。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "所",
+        "probabilities": [
+          {
+            "char": "所",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字笔画已全部完成，结构清晰。为左右结构，左部为“户”字旁，右部为“斤”。这两个部件组合唯一确定该字为“所”。字形为标准的楷书，不存在与其他汉字的混淆点。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "所",
+        "probabilities": [
+          {
+            "char": "所",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字笔画已全部写完，为左右结构。左部为“戶”字旁，右部为“斤”字旁，该组合唯一确定为“所”字。字形清晰标准，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "所",
+        "probabilities": [
+          {
+            "char": "所",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“户”字旁，右部为“斤”字。这两个偏旁组合在一起，唯一地构成了“所”字。图像中所有笔画均已完成，字形标准，没有产生歧义的可能。"
+      }
+    }
+  ]
+}

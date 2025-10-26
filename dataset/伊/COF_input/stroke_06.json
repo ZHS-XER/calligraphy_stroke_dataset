@@ -1,0 +1,126 @@
+{
+  "character": "伊",
+  "stroke_name": "stroke_06",
+  "target_stroke": 6,
+  "remaining_strokes": 0,
+  "total_strokes": 6,
+  "input_frames": [
+    "stroke_01.png",
+    "stroke_02.png",
+    "stroke_03.png",
+    "stroke_05.png",
+    "stroke_06.png"
+  ],
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "妇",
+        "probabilities": [
+          {
+            "char": "妇",
+            "p": 0.9
+          },
+          {
+            "char": "扫",
+            "p": 0.05
+          },
+          {
+            "char": "好",
+            "p": 0.05
+          }
+        ],
+        "rationale": "根据书写顺序，前三帧完整地构成了左侧的“女”字旁。第四和第五帧（最后一帧）在右侧添加并完成了“彐”部。左“女”右“彐”的左右结构唯一地确定了目标汉字为“妇”。"
+      },
+      "retry_count": 18
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "妇",
+        "probabilities": [
+          {
+            "char": "妇",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "前三帧图像清晰地勾勒出左侧的“女”字旁。第四帧和第五帧依次添加了右侧的“彐”部首（横折、横、横）。这两个部首结合构成了完整的汉字“妇”，最终形态非常明确，没有其他可能的候选字。"
+      },
+      "retry_count": 37
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "妇",
+        "probabilities": [
+          {
+            "char": "妇",
+            "p": 0.9
+          },
+          {
+            "char": "好",
+            "p": 0.05
+          },
+          {
+            "char": "如",
+            "p": 0.05
+          }
+        ],
+        "rationale": "推断依据：前三帧图像清晰地展示了“女”字偏旁的完整书写过程。第四帧和第五帧在其右侧添加了一个由“横折”和内部两个“横”组成的部件，该部件是“彐”的变形。左“女”右“⺕”的结构唯一确定了目标汉字为“妇”。"
+      },
+      "retry_count": 1
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "妇",
+        "probabilities": [
+          {
+            "char": "妇",
+            "p": 0.9
+          },
+          {
+            "char": "归",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "最终图像显示一个完整的左右结构汉字。左侧部分由前三帧构成，可以清晰地识别为“女”字旁。第四、五帧在右侧添加了一个完整的“彐”部。这两个部首的组合构成了唯一的常见汉字“妇”。"
+      },
+      "retry_count": 0
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "妇",
+        "probabilities": [
+          {
+            "char": "妇",
+            "p": 0.82
+          },
+          {
+            "char": "扫",
+            "p": 0.09
+          },
+          {
+            "char": "归",
+            "p": 0.09
+          }
+        ],
+        "rationale": "根据最终的字形判断。前三帧首先构成了左侧的“女”字旁。第四帧和第五帧在右侧依次添加了“横折”和内部的两横，形成了“彐”部。左右两部分结合“女”和“彐”，唯一确定了汉字“妇”。"
+      },
+      "retry_count": 0
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "character": "品",
+  "stroke_name": "stroke_09",
+  "image_path": "dataset/品/stroke_09.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "品",
+        "probabilities": [
+          {
+            "char": "品",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由三个独立的“口”字部件构成，呈上一下二的三角形排列。这是汉字“品”的典型结构。图像清晰，所有笔画已完成，没有与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "品",
+        "probabilities": [
+          {
+            "char": "品",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个由三个'口'字组成的汉字。这三个'口'呈三角形排列，一个在上方，两个在下方，形成了标准的'品'字结构。所有笔画均已完成，特征明确，无任何歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "品",
+        "probabilities": [
+          {
+            "char": "品",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由三个'口'字构成，呈品字形结构（上一下二）。笔画完整，结构清晰，是标准的'品'字。此结构在汉字中具有唯一性，无其他形态相似的常见汉字，因此识别确定性非常高。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "品",
+        "probabilities": [
+          {
+            "char": "品",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由三个独立的“口”字组成，呈上一下二的品字形结构。笔画清晰完整，字形结构明确，唯一指向汉字“品”，不存在其他可能的字形混淆。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "品",
+        "probabilities": [
+          {
+            "char": "品",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由三个独立的'口'字组成，呈上一下二的品字形结构。所有笔画均已完成，字形完整清晰，无其他可能的候选汉字，因此唯一确定为'品'字。"
+      }
+    }
+  ]
+}

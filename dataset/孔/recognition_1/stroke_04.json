@@ -1,0 +1,113 @@
+{
+  "character": "孔",
+  "stroke_name": "stroke_04",
+  "image_path": "dataset/孔/stroke_04.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "孔",
+        "probabilities": [
+          {
+            "char": "孔",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由左边的“子”部和右边的“乚”部组成。这个结构非常明确，唯一指向汉字“孔”。笔画完整，字形标准，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "孔",
+        "probabilities": [
+          {
+            "char": "孔",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字由左边的“子”部和右边的“乚”部构成，结构清晰，笔画完整。此结构唯一确定为“孔”字，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "孔",
+        "probabilities": [
+          {
+            "char": "孔",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像中的汉字笔画已全部完成。其结构为左“子”右“乚”，是标准的“孔”字。字形清晰，无歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "孔",
+        "probabilities": [
+          {
+            "char": "孔",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构，笔画已全部完成。左部为“子”字，右部为“乚”。这两个部首组合唯一地构成了汉字“孔”。字形标准清晰，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "孔",
+        "probabilities": [
+          {
+            "char": "孔",
+            "p": 0.9
+          },
+          {
+            "char": "孙",
+            "p": 0.05
+          },
+          {
+            "char": "乱",
+            "p": 0.05
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为清晰的“子”字，右部为“乚”。这两个部件组合构成了唯一的标准汉字“孔”。该字形为标准楷书，笔画完整清晰，几乎没有歧义。其他可能性极低的候选字，如“孙”或“乱”，分别只在左部或右部与目标字形有部分相似之处，但整体结构差异巨大。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "character": "她",
+  "stroke_name": "stroke_06",
+  "image_path": "dataset/她/stroke_06.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "她",
+        "probabilities": [
+          {
+            "char": "她",
+            "p": 0.9
+          },
+          {
+            "char": "地",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“女”字旁，右部为“也”。这两个偏旁部首组合构成了汉字“她”。字形为标准的楷书，笔画完整清晰，几乎没有产生歧义的可能。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "她",
+        "probabilities": [
+          {
+            "char": "她",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“女”字旁，右部为“也”字。这两个偏旁组合构成了唯一的常见汉字“她”。字形结构清晰，笔画完整，没有歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "她",
+        "probabilities": [
+          {
+            "char": "她",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左边是部首“女”字旁，右边是声旁“也”。这两个部分清晰地组合构成了汉字“她”。字形完整，笔画标准，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "她",
+        "probabilities": [
+          {
+            "char": "她",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构，笔画已全部写完。左边是部首“女”，右边是“也”。这两个部分组合在一起，唯一确定地构成了汉字“她”。字形完整清晰，没有歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "她",
+        "probabilities": [
+          {
+            "char": "她",
+            "p": 0.9
+          },
+          {
+            "char": "地",
+            "p": 0.05
+          },
+          {
+            "char": "他",
+            "p": 0.05
+          }
+        ],
+        "rationale": "该汉字为标准的左右结构。左部为“女”字旁，右部为“也”字。此结构唯一确定该字为“她”。所有笔画均已写完，字形清晰，没有歧义。"
+      }
+    }
+  ]
+}

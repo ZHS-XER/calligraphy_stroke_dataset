@@ -1,0 +1,112 @@
+{
+  "character": "干",
+  "stroke_name": "stroke_02",
+  "image_path": "dataset/干/stroke_02.png",
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像由两个清晰的横画构成，上方的横画比下方的略短。这是汉字“二”的 unequivocally 标准结构。图像特征非常明确，几乎不存在与其他汉字产生混淆的可能性。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像清晰地展示了两个横向笔画，上短下长。这是汉字‘二’的标准写法，结构明确，没有歧义，因此是唯一可能的识别结果。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由两个横向笔画构成，上方横画较短，下方横画较长。这完全符合汉字‘二’的标准结构和书法写法。笔画清晰，结构完整，几乎没有与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个由两横组成的汉字。上横短，下横长，这是汉字“二”的标准楷书写法，结构非常清晰，几乎没有产生歧义的可能。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个由两个横画构成的汉字。其形态特征为上横短、下横长，这是汉字“二”的标准楷书写法。笔画清晰，结构简单明确，几乎没有与其他汉字混淆的可能性。"
+      }
+    }
+  ]
+}

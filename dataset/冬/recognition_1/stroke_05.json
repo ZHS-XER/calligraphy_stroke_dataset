@@ -1,0 +1,113 @@
+{
+  "character": "冬",
+  "stroke_name": "stroke_05",
+  "image_path": "dataset/冬/stroke_05.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "冬",
+        "probabilities": [
+          {
+            "char": "冬",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字结构清晰，由上方的“夂”部和下方的两点“冫”部组成，此结构唯一地构成了“冬”字，没有其他形近字造成歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "冬",
+        "probabilities": [
+          {
+            "char": "冬",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字所有笔画均已完成，字形结构完整清晰。其上部为“夂”部首，下部为两点水“冫”。这两个部件组合唯一地构成了汉字“冬”，没有其他常见汉字有此结构，因此判定置信度极高。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "冬",
+        "probabilities": [
+          {
+            "char": "冬",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰，由上方的“夂”字头和下方的两点“冫”组成，这是“冬”字的标准结构。所有笔画均已完成，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "冬",
+        "probabilities": [
+          {
+            "char": "冬",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字笔画完整，结构清晰。其上部为“夂”字头，下部为两点水“冫”，这是“冬”字的标准结构，没有明显的歧义或形近字。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "冬",
+        "probabilities": [
+          {
+            "char": "冬",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由上部的撇、捺和下部的两点（“冫”部）构成。这个结构组合非常明确，唯一地指向汉字“冬”。字形为标准的楷书写法，几乎没有产生歧义的可能。"
+      }
+    }
+  ]
+}

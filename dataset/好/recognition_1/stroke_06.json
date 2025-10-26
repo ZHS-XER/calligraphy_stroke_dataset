@@ -1,0 +1,113 @@
+{
+  "character": "好",
+  "stroke_name": "stroke_06",
+  "image_path": "dataset/好/stroke_06.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "好",
+        "probabilities": [
+          {
+            "char": "好",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“女”字旁，右部为“子”字。两者组合构成“好”字。字形结构清晰，笔画完整，无明显歧义，是标准的楷书写法。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "好",
+        "probabilities": [
+          {
+            "char": "好",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“女”字旁，右部为“子”字，组合而成“好”字。字形完整，笔画清晰，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "好",
+        "probabilities": [
+          {
+            "char": "好",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左边是“女”字旁，右边是“子”字，组合而成“好”字。所有笔画均已完成，字形标准清晰，无歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "好",
+        "probabilities": [
+          {
+            "char": "好",
+            "p": 0.9
+          },
+          {
+            "char": "如",
+            "p": 0.05
+          },
+          {
+            "char": "妈",
+            "p": 0.05
+          }
+        ],
+        "rationale": "该汉字为左右结构。左边部分为“女”字旁，右边部分为“子”字。这两个部首组合在一起，明确构成了汉字“好”。该字形完整、清晰，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "好",
+        "probabilities": [
+          {
+            "char": "好",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“女”字旁，右部为“子”字。两个部件的笔画和结构都非常清晰，标准地组成了“好”字，没有其他可能的解释或视觉混淆项。"
+      }
+    }
+  ]
+}

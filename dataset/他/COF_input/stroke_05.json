@@ -1,0 +1,126 @@
+{
+  "character": "他",
+  "stroke_name": "stroke_05",
+  "target_stroke": 5,
+  "remaining_strokes": 0,
+  "total_strokes": 5,
+  "input_frames": [
+    "stroke_01.png",
+    "stroke_02.png",
+    "stroke_03.png",
+    "stroke_04.png",
+    "stroke_05.png"
+  ],
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "他",
+        "probabilities": [
+          {
+            "char": "他",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "图像序列清晰地展示了“他”字的完整书写过程。前两帧确定了左侧的“亻”（单人旁）部首。随后的三帧逐步构建出右侧的“也”部件。最后一帧完整呈现了“亻”与“也”构成的左右结构，唯一地指向汉字“他”。"
+      },
+      "retry_count": 1
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "他",
+        "probabilities": [
+          {
+            "char": "他",
+            "p": 0.9
+          },
+          {
+            "char": "地",
+            "p": 0.05
+          },
+          {
+            "char": "什",
+            "p": 0.05
+          }
+        ],
+        "rationale": "该字为左右结构。前两帧的笔画构成了左侧的部首“亻”（单人旁）。从第三帧开始，在右侧书写部件“也”。最后一帧完整展示了“亻”和“也”的组合，唯一确定该字为“他”。"
+      },
+      "retry_count": 2
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "他",
+        "probabilities": [
+          {
+            "char": "他",
+            "p": 0.82
+          },
+          {
+            "char": "什",
+            "p": 0.09
+          },
+          {
+            "char": "仕",
+            "p": 0.09
+          }
+        ],
+        "rationale": "该汉字为左右结构。前两帧图像清晰地构成了部首‘亻’（单人旁）。接下来的笔画在右侧构成了‘也’字。最后一帧展示了‘亻’和‘也’结合的完整形态，唯一确定该字为‘他’。"
+      },
+      "retry_count": 17
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "他",
+        "probabilities": [
+          {
+            "char": "他",
+            "p": 0.9
+          },
+          {
+            "char": "什",
+            "p": 0.05
+          },
+          {
+            "char": "地",
+            "p": 0.05
+          }
+        ],
+        "rationale": "根据书写过程，前两帧确定了汉字的左侧部首为“亻”（单人旁）。随后的笔画在右侧构建了“也”字旁。最后一帧完整地展示了一个由“亻”和“也”组成的左右结构汉字，因此可以唯一确定该字为“他”。"
+      },
+      "retry_count": 0
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "他",
+        "probabilities": [
+          {
+            "char": "他",
+            "p": 0.9
+          },
+          {
+            "char": "估",
+            "p": 0.05
+          },
+          {
+            "char": "仕",
+            "p": 0.05
+          }
+        ],
+        "rationale": "该字的识别过程始于第二帧清晰形成的“亻”部首（单人旁）。随后的笔画在其右侧逐步构建出“也”字部件。最后一帧完整地展示了左“亻”右“也”的左右结构，明确地构成了汉字“他”。"
+      },
+      "retry_count": 7
+    }
+  ]
+}

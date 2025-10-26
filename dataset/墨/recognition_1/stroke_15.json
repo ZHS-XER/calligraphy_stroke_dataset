@@ -1,0 +1,113 @@
+{
+  "character": "墨",
+  "stroke_name": "stroke_15",
+  "image_path": "dataset/墨/stroke_15.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "墨",
+        "probabilities": [
+          {
+            "char": "墨",
+            "p": 0.9
+          },
+          {
+            "char": "黑",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为上下结构。上部为“黑”，下部为“土”，组合而成“墨”字。字形完整清晰，符合楷书的基本结构，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "墨",
+        "probabilities": [
+          {
+            "char": "墨",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“黑”字，下部为“土”字，组合构成“墨”字。该字为楷书字体，所有笔画均已写完，字形清晰标准，没有与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "墨",
+        "probabilities": [
+          {
+            "char": "墨",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“黑”字，下部为“土”字。两者结合构成汉字“墨”。该帧图像中的字形完整、清晰，笔画特征明确，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "墨",
+        "probabilities": [
+          {
+            "char": "墨",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部是“黑”字，下部是“土”字，合起来是“墨”字。字形为标准楷书，笔画完整，结构清晰，不存在任何歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "墨",
+        "probabilities": [
+          {
+            "char": "墨",
+            "p": 0.9
+          },
+          {
+            "char": "黑",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“黑”，下部为“土”，组合而成“墨”字。字形为楷书，笔画清晰，结构标准，几乎没有歧义。唯一的微小混淆可能在于将下部的“土”误认为“黑”字底部的“灬”的某种书法变体。"
+      }
+    }
+  ]
+}

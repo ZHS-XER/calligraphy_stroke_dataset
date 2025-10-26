@@ -1,0 +1,113 @@
+{
+  "character": "否",
+  "stroke_name": "stroke_07",
+  "image_path": "dataset/否/stroke_07.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "否",
+        "probabilities": [
+          {
+            "char": "否",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为标准的上下结构。上部为“不”，下部为“口”，完整构成了“否”字。字形清晰，笔画完整，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "否",
+        "probabilities": [
+          {
+            "char": "否",
+            "p": 0.9
+          },
+          {
+            "char": "杏",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为清晰的上下结构。上部为“不”字，下部为“口”字，组合起来是唯一的“否”字。字形完整，笔画标准，识别度很高。将“杏”列为次要可能，是因为其同样是上下结构且下部为“口”，但其上部为“木”，与图像中的“不”字形有明显区别，仅为极低概率的误判。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "否",
+        "probabilities": [
+          {
+            "char": "否",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为典型的上下结构。上部为“不”字，下部为“口”字，组合构成了汉字“否”。字形标准，笔画清晰，无歧义，可以唯一确定。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "否",
+        "probabilities": [
+          {
+            "char": "否",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“不”字，下部为“口”字，组合而成“否”字。字形结构清晰，笔画完整，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "否",
+        "probabilities": [
+          {
+            "char": "否",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“不”字，下部为“口”字，组合而成“否”字。所有笔画均已完成，字形清晰，无明显歧义。"
+      }
+    }
+  ]
+}

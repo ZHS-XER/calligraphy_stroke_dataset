@@ -1,0 +1,237 @@
+{
+  "dataset": "test_dataset",
+  "total_characters": 10,
+  "total_runs_per_method": 50,
+  "baseline_1": {
+    "method": "Single frame at HERP",
+    "avg_probability_gap": 0.0489,
+    "description": "top1概率 - 正确答案概率",
+    "correct_in_top3": 39,
+    "top3_rate": 78.0,
+    "top1_correct": 36,
+    "top1_accuracy": 72.0
+  },
+  "chain_of_frames": {
+    "method": "Multi-frame (4 frames + HERP)",
+    "avg_probability_gap": 0.0778,
+    "description": "top1概率 - 正确答案概率",
+    "correct_in_top3": 38,
+    "top3_rate": 76.0,
+    "top1_correct": 37,
+    "top1_accuracy": 74.0
+  },
+  "comparison": {
+    "avg_gap_diff": -0.0289,
+    "description": "baseline - COF (负数表示baseline的gap更小，即更准确)",
+    "top3_rate_diff": 2.0,
+    "top1_accuracy_diff": -2.0,
+    "winner": "baseline_1"
+  },
+  "per_character_results": [
+    {
+      "character": "厨",
+      "herp": 9,
+      "baseline_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "cof_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "baseline_avg_gap": 0.0,
+      "cof_avg_gap": 0.0,
+      "baseline_valid_count": 5,
+      "cof_valid_count": 5,
+      "gap_diff": 0.0
+    },
+    {
+      "character": "哄",
+      "herp": 7,
+      "baseline_gaps": [],
+      "cof_gaps": [],
+      "baseline_avg_gap": null,
+      "cof_avg_gap": null,
+      "baseline_valid_count": 0,
+      "cof_valid_count": 0,
+      "gap_diff": null
+    },
+    {
+      "character": "岔",
+      "herp": 6,
+      "baseline_gaps": [
+        0.0,
+        0.0,
+        0.7000000000000001,
+        0.0,
+        0.0
+      ],
+      "cof_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "baseline_avg_gap": 0.14,
+      "cof_avg_gap": 0.0,
+      "baseline_valid_count": 5,
+      "cof_valid_count": 4,
+      "gap_diff": 0.14
+    },
+    {
+      "character": "扬",
+      "herp": 5,
+      "baseline_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "cof_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "baseline_avg_gap": 0.0,
+      "cof_avg_gap": 0.0,
+      "baseline_valid_count": 5,
+      "cof_valid_count": 5,
+      "gap_diff": 0.0
+    },
+    {
+      "character": "皇",
+      "herp": 8,
+      "baseline_gaps": [
+        0.0
+      ],
+      "cof_gaps": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "baseline_avg_gap": 0.0,
+      "cof_avg_gap": 0.0,
+      "baseline_valid_count": 1,
+      "cof_valid_count": 3,
+      "gap_diff": 0.0
+    },
+    {
+      "character": "管",
+      "herp": 12,
+      "baseline_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "cof_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "baseline_avg_gap": 0.0,
+      "cof_avg_gap": 0.0,
+      "baseline_valid_count": 5,
+      "cof_valid_count": 5,
+      "gap_diff": 0.0
+    },
+    {
+      "character": "粉",
+      "herp": 9,
+      "baseline_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "cof_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "baseline_avg_gap": 0.0,
+      "cof_avg_gap": 0.0,
+      "baseline_valid_count": 5,
+      "cof_valid_count": 5,
+      "gap_diff": 0.0
+    },
+    {
+      "character": "词",
+      "herp": 5,
+      "baseline_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "cof_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "baseline_avg_gap": 0.0,
+      "cof_avg_gap": 0.0,
+      "baseline_valid_count": 5,
+      "cof_valid_count": 5,
+      "gap_diff": 0.0
+    },
+    {
+      "character": "镜",
+      "herp": 13,
+      "baseline_gaps": [
+        0.39,
+        0.0,
+        0.51
+      ],
+      "cof_gaps": [
+        0.7
+      ],
+      "baseline_avg_gap": 0.3,
+      "cof_avg_gap": 0.7,
+      "baseline_valid_count": 3,
+      "cof_valid_count": 1,
+      "gap_diff": -0.4
+    },
+    {
+      "character": "隔",
+      "herp": 9,
+      "baseline_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "cof_gaps": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "baseline_avg_gap": 0.0,
+      "cof_avg_gap": 0.0,
+      "baseline_valid_count": 5,
+      "cof_valid_count": 5,
+      "gap_diff": 0.0
+    }
+  ]
+}

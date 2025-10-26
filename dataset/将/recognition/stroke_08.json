@@ -1,0 +1,95 @@
+{
+  "character": "将",
+  "stroke_name": "stroke_08",
+  "image_path": "dataset/将/stroke_08.png",
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "将",
+        "probabilities": [
+          {
+            "char": "将",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为标准的左右结构。左部为“爿”旁（pán）的变形，右部为“寸”。这两个部件组合唯一构成了“将”字。该字形为标准楷书，笔画清晰，结构明确，没有产生歧义的变体或写法。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "将",
+        "probabilities": [
+          {
+            "char": "将",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为左右结构。左部为“爿”字旁（将字旁），右部为“寸”。这两个部件组合构成了唯一的汉字“将”。字形为标准的楷书，笔画清晰，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "将",
+        "probabilities": [
+          {
+            "char": "将",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为楷书字体。其结构为左右结构，左边是“丬”（将字旁），右边是“寸”。笔画清晰，结构标准，可以唯一确定为“将”字，无其他相似且易混淆的字。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": null
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "将",
+        "probabilities": [
+          {
+            "char": "将",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为左右结构。左部为“爿”字旁（将字旁），右部为“寸”字。此组合唯一指向“将”字。该字为标准楷书，笔画清晰，无歧义。"
+      }
+    }
+  ]
+}

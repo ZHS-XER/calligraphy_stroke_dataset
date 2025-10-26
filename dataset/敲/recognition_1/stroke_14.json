@@ -1,0 +1,113 @@
+{
+  "character": "敲",
+  "stroke_name": "stroke_14",
+  "image_path": "dataset/敲/stroke_14.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "敲",
+        "probabilities": [
+          {
+            "char": "敲",
+            "p": 0.9
+          },
+          {
+            "char": "敵",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为左右结构。左部为“高”字，右部为反文旁“攴”。二者结合构成了“敲”字。该字的结构清晰，笔画完整，识别确定性很高。与“敵”字右部相同，但左部明显不同，仅作为极低概率的混淆项。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "敲",
+        "probabilities": [
+          {
+            "char": "敲",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“高”字，右部为反文旁“攵”。这两个部件组合构成了唯一的汉字“敲”。字形标准，笔画清晰，没有产生歧义的空间。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "敲",
+        "probabilities": [
+          {
+            "char": "敲",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“高”字，右部为“攴”部（反文旁）。这两个部首组合构成的唯一常用汉字是“敲”。字形标准，笔画完整清晰，没有歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "敲",
+        "probabilities": [
+          {
+            "char": "敲",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为左右结构。左部为“高”字，右部为部首“攴”（反文旁）。二者结合构成汉字“敲”。字形标准，笔画清晰，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "敲",
+        "probabilities": [
+          {
+            "char": "敲",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为清晰的左右结构。左部为“高”字，右部为反文旁“攴”。这两个部件组合在一起，唯一地构成了汉字“敲”。字形为标准楷书，笔画完整清晰，不存在其他可能的解释或混淆项。"
+      }
+    }
+  ]
+}

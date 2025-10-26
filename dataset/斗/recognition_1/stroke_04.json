@@ -1,0 +1,113 @@
+{
+  "character": "斗",
+  "stroke_name": "stroke_04",
+  "image_path": "dataset/斗/stroke_04.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "斗",
+        "probabilities": [
+          {
+            "char": "斗",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字已书写完毕。其结构由左侧的两点和右侧的一横一竖构成的十字形组成，这是汉字“斗”的明确且唯一的形态特征，字形清晰，无歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "斗",
+        "probabilities": [
+          {
+            "char": "斗",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由四画构成，所有笔画均已写完。左侧为上下排列的两点，右侧为一横一竖相交的十字结构。此为汉字“斗”的标准楷书写法，结构清晰，无歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "斗",
+        "probabilities": [
+          {
+            "char": "斗",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为楷书“斗”字。其结构由左侧两点和右侧的十字形构成，笔画完整，字形标准，特征非常明确，不存在明显的歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "斗",
+        "probabilities": [
+          {
+            "char": "斗",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字共四画，结构清晰。左部为上下排列的两点，右部为一横与一竖构成的十字。此结构明确指向汉字“斗”，无常见形近字产生歧义，因此识别确定性极高。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "斗",
+        "probabilities": [
+          {
+            "char": "斗",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字笔画完整，结构清晰。由左侧两点和右侧的十字形构成，这唯一地指向了汉字“斗”。字形非常标准，不存在与其他汉字混淆的可能。"
+      }
+    }
+  ]
+}

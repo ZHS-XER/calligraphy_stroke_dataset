@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2025-10-25T20:46:29",
+    "parallelism": 1,
+    "total_calls": 23,
+    "success": 12,
+    "fail": 11,
+    "fail_rate": 0.478,
+    "duration_sec": 1193.7,
+    "speed": 0.01
+  },
+  {
+    "timestamp": "2025-10-25T20:56:57",
+    "parallelism": 2,
+    "total_calls": 27,
+    "success": 15,
+    "fail": 12,
+    "fail_rate": 0.444,
+    "duration_sec": 616.0,
+    "speed": 0.02
+  },
+  {
+    "timestamp": "2025-10-25T21:07:38",
+    "parallelism": 4,
+    "total_calls": 49,
+    "success": 30,
+    "fail": 19,
+    "fail_rate": 0.388,
+    "duration_sec": 631.9,
+    "speed": 0.05
+  },
+  {
+    "timestamp": "2025-10-25T21:19:14",
+    "parallelism": 8,
+    "total_calls": 159,
+    "success": 93,
+    "fail": 66,
+    "fail_rate": 0.415,
+    "duration_sec": 692.4,
+    "speed": 0.13
+  },
+  {
+    "timestamp": "2025-10-25T21:31:32",
+    "parallelism": 16,
+    "total_calls": 318,
+    "success": 177,
+    "fail": 141,
+    "fail_rate": 0.443,
+    "duration_sec": 730.4,
+    "speed": 0.24
+  },
+  {
+    "timestamp": "2025-10-25T22:56:40",
+    "parallelism": 20,
+    "total_calls": 3332,
+    "success": 1165,
+    "fail": 2167,
+    "fail_rate": 0.65,
+    "duration_sec": 5103.1,
+    "speed": 0.23
+  },
+  {
+    "timestamp": "2025-10-25T23:38:58",
+    "parallelism": 32,
+    "total_calls": 2706,
+    "success": 500,
+    "fail": 2206,
+    "fail_rate": 0.815,
+    "duration_sec": 2523.1,
+    "speed": 0.2
+  },
+  {
+    "timestamp": "2025-10-26T00:12:37",
+    "parallelism": 64,
+    "total_calls": 4481,
+    "success": 873,
+    "fail": 3608,
+    "fail_rate": 0.805,
+    "duration_sec": 2004.2,
+    "speed": 0.44
+  },
+  {
+    "timestamp": "2025-10-26T00:33:03",
+    "parallelism": 128,
+    "total_calls": 5969,
+    "success": 833,
+    "fail": 5136,
+    "fail_rate": 0.86,
+    "duration_sec": 1215.8,
+    "speed": 0.69
+  },
+  {
+    "timestamp": "2025-10-26T01:27:08",
+    "parallelism": 256,
+    "total_calls": 27873,
+    "success": 1446,
+    "fail": 26427,
+    "fail_rate": 0.948,
+    "duration_sec": 3239.2,
+    "speed": 0.45
+  },
+  {
+    "timestamp": "2025-10-26T10:37:44",
+    "parallelism": 128,
+    "total_calls": 98350,
+    "success": 4433,
+    "fail": 93917,
+    "fail_rate": 0.955,
+    "duration_sec": 22598.2,
+    "speed": 0.2
+  }
+]

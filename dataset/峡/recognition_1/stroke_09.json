@@ -1,0 +1,113 @@
+{
+  "character": "峡",
+  "stroke_name": "stroke_09",
+  "image_path": "dataset/峡/stroke_09.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "峡",
+        "probabilities": [
+          {
+            "char": "峡",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为标准的左右结构。左边是部首“山”，右边是声旁“夹”，组合在一起构成汉字“峡”。字形完整清晰，没有其他可能的解释。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "峡",
+        "probabilities": [
+          {
+            "char": "峡",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为部首“山”字旁，右部为声旁“夹”。结合字形结构和笔画，可以唯一确定该字为“峡”。字形为标准楷书，笔画清晰，无歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "峡",
+        "probabilities": [
+          {
+            "char": "峡",
+            "p": 0.9
+          },
+          {
+            "char": "挟",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为偏旁“山”，右部为“夹”。两者组合构成汉字“峡”。该字笔画清晰，结构标准，识别确定性很高。唯一的低概率混淆可能来自将左侧的“山”字旁误认为形态和笔画数略有相似的“扌”（提手旁），从而误识别为“挟”。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "峡",
+        "probabilities": [
+          {
+            "char": "峡",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为左右结构的合体字。左部为意符“山”，右部为声符“夹”，组合而成“峡”字。字形为楷书，笔画清晰，结构标准，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "峡",
+        "probabilities": [
+          {
+            "char": "峡",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为左右结构。左部为偏旁“山”，右部为“夹”。两者组合构成标准汉字“峡”。该字形为楷书，笔画完整清晰，结构明确，无明显歧义。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "character": "刑",
+  "stroke_name": "stroke_02",
+  "image_path": "dataset/刑/stroke_02.png",
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "图像由两个平行的横画构成，上短下长，这是汉字“二”的典型、标准写法。该字形结构极其简单明确，在当前帧信息完整的情况下，几乎不存在与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "图像由两个平行的横画构成，上短下长，这是汉字“二”的标准写法。笔画清晰，结构完整，不存在与其他汉字的明显歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "图像由两条平行的横画构成，上短下长。这是汉字“二”的标准结构，特征明确，几乎没有产生歧义的可能。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "图像由两道平行的横画构成，上短下长，这是汉字‘二’的标准写法。字形结构简单、清晰，不存在与其他汉字的明显歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 0.9
+          },
+          {
+            "char": "三",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "图像由两个平行的横画构成，上短下长，这是汉字“二”的典型、完整的结构。一个极小的可能性是该字尚未书写完毕，可能是“三”的前两笔，但根据现有信息，“二”是可能性最高的判断。"
+      }
+    }
+  ]
+}

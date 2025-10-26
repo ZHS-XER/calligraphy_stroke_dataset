@@ -63,6 +63,83 @@ def image_to_base64(image_path: Path) -> str:
         return base64.b64encode(image_file.read()).decode('utf-8')
 
 
+def validate_llm_output(llm_output: Dict) -> bool:
+    """
+    验证LLM输出是否有效
+    
+    Args:
+        llm_output: 模型输出的字典
+    
+    Returns:
+        是否有效
+    """
+    if not llm_output or not isinstance(llm_output, dict):
+        return False
+    
+    # 检查必须字段是否存在
+    if 'answer' not in llm_output or 'probabilities' not in llm_output:
+        return False
+    
+    # 检查answer是否有效
+    answer = llm_output.get('answer')
+    if not answer or answer == 'null' or not isinstance(answer, str):
+        return False
+    
+    # 检查probabilities是否有效
+    probabilities = llm_output.get('probabilities')
+    if not probabilities or not isinstance(probabilities, list) or len(probabilities) == 0:
+        return False
+    
+    # 检查第一个概率项是否有效
+    first_prob = probabilities[0]
+    if not isinstance(first_prob, dict):
+        return False
+    
+    if 'char' not in first_prob or not first_prob.get('char'):
+        return False
+    
+    return True
+
+
+def is_stroke_file_valid(file_path: Path) -> bool:
+    """
+    验证笔画识别结果文件是否有效
+    
+    Args:
+        file_path: JSON文件路径
+    
+    Returns:
+        文件是否有效（能解析且所有run的llm_output有效）
+    """
+    if not file_path.exists():
+        return False
+    
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        # 检查是否有runs字段
+        if 'runs' not in data or not isinstance(data['runs'], list):
+            return False
+        
+        # 检查是否有足够的runs（应该是5个）
+        if len(data['runs']) != 5:
+            return False
+        
+        # 检查每个run的llm_output是否有效
+        for run in data['runs']:
+            if 'llm_output' not in run:
+                return False
+            
+            llm_output = run['llm_output']
+            if not validate_llm_output(llm_output):
+                return False
+        
+        return True
+    except Exception:
+        return False
+
+
 def recognize_stroke_image_once(image_path: Path, character: str,
                                 max_retries: int = 300, initial_delay: float = 2.0,
                                 pbar: Optional[tqdm] = None) -> Optional[Dict]:
@@ -320,20 +397,39 @@ def process_dataset(dataset_dir: str = "../dataset",
     
     # 断点续传：检查哪些字符已经处理完成
     processed_chars = set()
+    incomplete_chars = []  # 记录需要重新处理的字符
+    
     if resume:
         for char_folder in char_folders:
             recognition_dir = char_folder / "recognition"
             if recognition_dir.exists():
-                # 检查是否所有笔画都已处理
+                # 检查是否所有笔画都已处理且内容有效
                 stroke_images = get_stroke_images(char_folder)
-                expected_files = {f"{img.stem}.json" for img in stroke_images}
-                existing_files = {f.name for f in recognition_dir.glob("*.json")}
+                expected_files = {f"{img.stem}.json": img for img in stroke_images}
                 
-                if expected_files.issubset(existing_files):
+                # 检查所有预期文件是否存在且有效
+                all_valid = True
+                for json_name, img_path in expected_files.items():
+                    json_path = recognition_dir / json_name
+                    if not is_stroke_file_valid(json_path):
+                        all_valid = False
+                        break
+                
+                if all_valid and len(expected_files) > 0:
                     processed_chars.add(char_folder.name)
+                elif len(expected_files) > 0:
+                    # 有文件但不完整，记录下来
+                    incomplete_chars.append(char_folder.name)
         
         if processed_chars:
             print(f"📂 已完成 {len(processed_chars)} 个字")
+        if incomplete_chars:
+            print(f"⚠️  检测到 {len(incomplete_chars)} 个字符文件不完整，将重新处理")
+            # 只显示前10个作为示例
+            if len(incomplete_chars) <= 10:
+                print(f"    {', '.join(incomplete_chars)}")
+            else:
+                print(f"    {', '.join(incomplete_chars[:10])} ...")
     
     remaining_folders = [
         d for d in char_folders

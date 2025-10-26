@@ -1,0 +1,61 @@
+{
+  "character": "岷",
+  "stroke_name": "stroke_08",
+  "image_path": "dataset/岷/stroke_08.png",
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": null
+    },
+    {
+      "run_id": 2,
+      "llm_output": null
+    },
+    {
+      "run_id": 3,
+      "llm_output": null
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "岷",
+        "probabilities": [
+          {
+            "char": "岷",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“山”字旁，右部为“民”字。二者组合构成汉字“岷”。该字形为标准楷书，笔画清晰，结构明确，不存在明显的歧义或容易混淆的其它汉字。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "岷",
+        "probabilities": [
+          {
+            "char": "岷",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为标准的左右结构。左边部首为“山”，右边部分为“民”，组合成唯一的汉字“岷”。字形为标准楷书，笔画清晰，结构明确，不存在其他高可能性的相似字。"
+      }
+    }
+  ]
+}

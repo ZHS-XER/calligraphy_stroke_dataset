@@ -1,0 +1,113 @@
+{
+  "character": "施",
+  "stroke_name": "stroke_09",
+  "image_path": "dataset/施/stroke_09.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "施",
+        "probabilities": [
+          {
+            "char": "施",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为'方'字旁，右部为'也'字。这两个部件组合在一起，唯一确定该字为'施'。字形为标准楷书，结构清晰，没有歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "施",
+        "probabilities": [
+          {
+            "char": "施",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构，左部为“方”字旁，右部为“也”字。这两个部件组合构成的唯一常见汉字是“施”。字形完整清晰，没有歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "施",
+        "probabilities": [
+          {
+            "char": "施",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“方”字旁，右部为“也”字。这两个部件清晰可辨，结合后唯一确定该汉字为“施”。字形标准，笔画完整，不存在歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "施",
+        "probabilities": [
+          {
+            "char": "施",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为典型的左右结构。左侧为“方”字旁，右侧为“也”字。这两个偏旁部首的组合唯一地构成了汉字“施”。该字为楷书字体，笔画清晰，结构标准，不存在与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "施",
+        "probabilities": [
+          {
+            "char": "施",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为左右结构。左部为“方”字旁，右部为“也”字。组合起来唯一确定为“施”字。字形为标准楷书，笔画清晰完整，无明显歧义。"
+      }
+    }
+  ]
+}

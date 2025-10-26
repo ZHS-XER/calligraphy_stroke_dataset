@@ -1,0 +1,113 @@
+{
+  "character": "加",
+  "stroke_name": "stroke_05",
+  "image_path": "dataset/加/stroke_05.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "加",
+        "probabilities": [
+          {
+            "char": "加",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字已书写完毕。其结构为左右结构，左边是“力”字旁，右边是“口”字旁，组合起来唯一确定为“加”字。字形清晰，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "加",
+        "probabilities": [
+          {
+            "char": "加",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左侧为“力”字部，右侧为“口”字部。这两个部件组合明确构成了汉字“加”。字形标准，笔画清晰，没有造成混淆的其它可能性。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "加",
+        "probabilities": [
+          {
+            "char": "加",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“力”字，右部为“口”字，组合构成“加”字。字形标准，笔画清晰完整，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "加",
+        "probabilities": [
+          {
+            "char": "加",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构，左部为“力”，右部为“口”。此结构唯一指向汉字“加”。图像中的字形为标准楷书，笔画完整清晰，没有任何可能产生混淆的特征，因此判定结果具有极高的确定性。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "加",
+        "probabilities": [
+          {
+            "char": "加",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为标准的左右结构。左部为“力”字旁，右部为“口”字。所有笔画均已完成，字形清晰，可以唯一确定为“加”字。"
+      }
+    }
+  ]
+}

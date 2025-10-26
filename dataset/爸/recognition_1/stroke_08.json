@@ -1,0 +1,113 @@
+{
+  "character": "爸",
+  "stroke_name": "stroke_08",
+  "image_path": "dataset/爸/stroke_08.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "爸",
+        "probabilities": [
+          {
+            "char": "爸",
+            "p": 0.9
+          },
+          {
+            "char": "父",
+            "p": 0.05
+          },
+          {
+            "char": "巴",
+            "p": 0.05
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“父”字头，下部为“巴”字。组合起来是唯一的常用汉字“爸”。字形规范，笔画完整，没有歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "爸",
+        "probabilities": [
+          {
+            "char": "爸",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为部首“父”，下部为声旁“巴”，组合而成“爸”字。该字为标准楷书写法，笔画清晰，结构明确，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "爸",
+        "probabilities": [
+          {
+            "char": "爸",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为清晰的上下结构。上部为“父”字头，下部为“巴”字底。这两个部件组合构成了唯一的汉字“爸”。字形完整且标准，没有产生歧义的相似字。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "爸",
+        "probabilities": [
+          {
+            "char": "爸",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“父”字头，下部为“巴”字底。此组合构成的唯一标准汉字是“爸”。字形规范，笔画完整清晰，不存在明显的歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "爸",
+        "probabilities": [
+          {
+            "char": "爸",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“父”字头，下部为“巴”字底。所有笔画均已写完，结构清晰，没有歧义，唯一指向“爸”字。"
+      }
+    }
+  ]
+}

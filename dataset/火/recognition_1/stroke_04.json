@@ -1,0 +1,113 @@
+{
+  "character": "火",
+  "stroke_name": "stroke_04",
+  "image_path": "dataset/火/stroke_04.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "火",
+        "probabilities": [
+          {
+            "char": "火",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为楷书“火”字。其笔画结构完整，由一个中心笔画和左右两边的点、捺组成，形态非常标准且明确，没有与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "火",
+        "probabilities": [
+          {
+            "char": "火",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由四笔构成：左侧一点，中间一撇，右侧为一撇一捺构成的人字形。这个笔画结构和形态是汉字“火”的典型写法，特征明确，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "火",
+        "probabilities": [
+          {
+            "char": "火",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由四笔构成：中间一点，左边一短撇，以及一个近似“人”字的主体结构。此结构和笔画组合是汉字“火”的典型写法，特征明确，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "火",
+        "probabilities": [
+          {
+            "char": "火",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由四笔构成：左边一点、一撇，中间一撇，右边一捺。整体结构呈向上燃烧的火焰形态，是“火”字的标准写法，没有歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "火",
+        "probabilities": [
+          {
+            "char": "火",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由四笔构成：中间一点，左边一撇，右边一短撇和一捺。其字形结构是“火”字的标准写法，笔画清晰，没有与其他汉字产生混淆的可能。"
+      }
+    }
+  ]
+}

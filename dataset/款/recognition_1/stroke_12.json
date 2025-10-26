@@ -1,0 +1,113 @@
+{
+  "character": "款",
+  "stroke_name": "stroke_12",
+  "image_path": "dataset/款/stroke_12.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "款",
+        "probabilities": [
+          {
+            "char": "款",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构，所有笔画均已书写完毕。左侧部分和右侧的“欠”字旁组合，构成了特征非常明确的“款”字。该字形体标准，几乎没有与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "款",
+        "probabilities": [
+          {
+            "char": "款",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左边部分与右边的“欠”字旁组合，构成了“款”字。该字形笔画完整，结构清晰，在楷体中为标准写法，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "款",
+        "probabilities": [
+          {
+            "char": "款",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为左右结构。右部为清晰的“欠”字旁。左部与“欠”组合，构成唯一的常用汉字“款”。该字笔画完整、清晰，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "款",
+        "probabilities": [
+          {
+            "char": "款",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。右部为标准的“欠”字旁，左部笔画组合清晰。整体结构唯一指向汉字“款”，没有其他常见字形与之混淆。所有笔画均已完成，字形标准，无歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "款",
+        "probabilities": [
+          {
+            "char": "款",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。右部为清晰的“欠”字旁。左部与右部“欠”组合，构成了完整的“款”字。该字笔画清晰，结构标准，没有明显的歧义。"
+      }
+    }
+  ]
+}

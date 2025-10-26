@@ -1,0 +1,113 @@
+{
+  "character": "寸",
+  "stroke_name": "stroke_03",
+  "image_path": "dataset/寸/stroke_03.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "寸",
+        "probabilities": [
+          {
+            "char": "寸",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像为一个完整的汉字，由“横”、“竖钩”和“点”三个笔画组成。其结构和笔画形态是汉字“寸”的标准写法，特征明确，没有歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "寸",
+        "probabilities": [
+          {
+            "char": "寸",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由一横、一竖钩、一点三笔组成。笔画结构完整清晰，唯一确定为汉字“寸”。没有其他形态相似的汉字造成歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "寸",
+        "probabilities": [
+          {
+            "char": "寸",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由一横、一竖钩和一丶（点）组成。笔画结构清晰，完整地构成了“寸”字，不存在与其他常见汉字的混淆点。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "寸",
+        "probabilities": [
+          {
+            "char": "寸",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由一横、一竖钩和一点组成。横与竖钩交叉，点在竖钩左侧，这是汉字“寸”的明确结构，没有明显的歧义字。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "寸",
+        "probabilities": [
+          {
+            "char": "寸",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由一横、一竖钩和一点三个笔画构成。其结构为竖钩穿过横画，点在竖钩的左侧。此为汉字“寸”的标准楷书写法，结构清晰，没有歧义，因此确定性极高。"
+      }
+    }
+  ]
+}

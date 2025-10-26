@@ -1,0 +1,113 @@
+{
+  "character": "半",
+  "stroke_name": "stroke_05",
+  "image_path": "dataset/半/stroke_05.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "半",
+        "probabilities": [
+          {
+            "char": "半",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "图像中的汉字笔画完整，结构清晰，为楷书“半”字。其上部为点、撇、横，下部为长横和中竖，是“半”的标准化字形，不存在歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "半",
+        "probabilities": [
+          {
+            "char": "半",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字所有笔画均已写完。其字形结构由上部的“八”字头（点、撇）和下部的横、竖、横三笔组成。整体结构清晰、标准，唯一地指向汉字“半”，不存在明显的歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "半",
+        "probabilities": [
+          {
+            "char": "半",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰、完整，由上方的两个点划和下方的十字形构成，笔画顺序和形态均明确指向“半”字。该字形非常标准，没有与其他常见汉字产生混淆的可能。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "半",
+        "probabilities": [
+          {
+            "char": "半",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "图像中的汉字笔画和结构非常清晰、标准。该字由上部的两个点画、中部的横画以及贯穿中部的竖画组成。这个结构唯一地确定了该汉字为“半”，不存在明显的歧义或与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "半",
+        "probabilities": [
+          {
+            "char": "半",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字由五个笔画构成，结构清晰。上半部分为两个相向的短划，下半部分为一横一竖交叉，整体结构明确指向汉字“半”。该字形为标准的楷书写法，没有明显的歧义。"
+      }
+    }
+  ]
+}

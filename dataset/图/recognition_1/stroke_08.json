@@ -1,0 +1,113 @@
+{
+  "character": "图",
+  "stroke_name": "stroke_08",
+  "image_path": "dataset/图/stroke_08.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "图",
+        "probabilities": [
+          {
+            "char": "图",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为全包围结构。外部是部首“囗”（wéi），内部是汉字“冬”。这两个部分组合构成了唯一的汉字“图”。该字形笔画完整，结构清晰，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "图",
+        "probabilities": [
+          {
+            "char": "图",
+            "p": 0.9
+          },
+          {
+            "char": "固",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为全包围结构。外部为部首“囗”（wéi），内部为“冬”（dōng）。二者结合构成汉字“图”。其结构和笔画都非常清晰，识别确定性很高。将“固”列为极低概率的候选，是考虑到内部的“冬”在极罕见情况下，可能被误认为形近的“古”。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "图",
+        "probabilities": [
+          {
+            "char": "图",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为全包围结构，特征非常明确。外部为“囗”（wéi）字框，内部为“冬”（dōng）字。所有笔画均已完成，结构清晰，没有明显的歧义，可以唯一确定为“图”字。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "图",
+        "probabilities": [
+          {
+            "char": "图",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为全包围结构，特征非常明确。外部是字框“囗”，内部是“冬”字。这两个部分的组合唯一地构成了汉字“图”。笔画完整，结构标准，没有与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "图",
+        "probabilities": [
+          {
+            "char": "图",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由外部的“囗”（国字框）和内部的“冬”字组成。这个结构唯一地指向汉字“图”。字形为楷书，笔画清晰，结构完整，无明显歧义。"
+      }
+    }
+  ]
+}

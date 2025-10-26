@@ -1,0 +1,126 @@
+{
+  "character": "侄",
+  "stroke_name": "stroke_08",
+  "target_stroke": 8,
+  "remaining_strokes": 0,
+  "total_strokes": 8,
+  "input_frames": [
+    "stroke_01.png",
+    "stroke_03.png",
+    "stroke_05.png",
+    "stroke_06.png",
+    "stroke_08.png"
+  ],
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "侄",
+        "probabilities": [
+          {
+            "char": "侄",
+            "p": 0.82
+          },
+          {
+            "char": "佁",
+            "p": 0.12
+          },
+          {
+            "char": "侍",
+            "p": 0.06
+          }
+        ],
+        "rationale": "根据书写过程，前两帧确定了左侧的“亻”部首。后续三帧逐步写出右侧的“至”部。最后一帧完整展示了“亻”和“至”的左右结构，明确构成了汉字“侄”。"
+      },
+      "retry_count": 32
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "侄",
+        "probabilities": [
+          {
+            "char": "侄",
+            "p": 0.82
+          },
+          {
+            "char": "佁",
+            "p": 0.09
+          },
+          {
+            "char": "倒",
+            "p": 0.09
+          }
+        ],
+        "rationale": "前两帧清晰地书写出左侧的“单人旁”（亻）部首，确定了这是一个左右结构的形声字。后续帧在右侧逐笔构建出声旁“至”。最后一帧完整展示了“亻”和“至”的组合，明确指向汉字“侄”。"
+      },
+      "retry_count": 57
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "侄",
+        "probabilities": [
+          {
+            "char": "侄",
+            "p": 0.9
+          },
+          {
+            "char": "佳",
+            "p": 0.05
+          },
+          {
+            "char": "佶",
+            "p": 0.05
+          }
+        ],
+        "rationale": "该汉字为左右结构。前两帧图像清晰地写出了左侧的“亻”部首。后续的三帧逐步构建出右侧的“至”部分。根据左“亻”右“至”的结构，可以唯一确定该汉字为“侄”。"
+      },
+      "retry_count": 4
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "侄",
+        "probabilities": [
+          {
+            "char": "侄",
+            "p": 0.9
+          },
+          {
+            "char": "佳",
+            "p": 0.05
+          },
+          {
+            "char": "佶",
+            "p": 0.05
+          }
+        ],
+        "rationale": "该汉字为左右结构。前两帧首先写出左侧的“单人旁”（亻）部首。随后的笔画在右侧逐步构建出“至”字的部分。最后一帧通过添加底部的横画，完整呈现了“亻”和“至”的组合，唯一确定该字为“侄”。"
+      },
+      "retry_count": 0
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "侄",
+        "probabilities": [
+          {
+            "char": "侄",
+            "p": 0.9
+          },
+          {
+            "char": "佁",
+            "p": 0.05
+          },
+          {
+            "char": "倒",
+            "p": 0.05
+          }
+        ],
+        "rationale": "前两帧确立了左侧的“单人旁”（亻）部首。第三至第五帧在右侧完整地书写了“至”字作为声旁。左形（亻）右声（至）的结构清晰地构成了汉字“侄”。"
+      },
+      "retry_count": 1
+    }
+  ]
+}

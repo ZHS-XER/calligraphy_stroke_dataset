@@ -1,0 +1,113 @@
+{
+  "character": "喜",
+  "stroke_name": "stroke_12",
+  "image_path": "dataset/喜/stroke_12.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "喜",
+        "probabilities": [
+          {
+            "char": "喜",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰、完整，为上下结构。上部为“吉”字，下部为“口”字，此组合唯一地构成了“喜”字。字形为标准楷书，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "喜",
+        "probabilities": [
+          {
+            "char": "喜",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“吉”字，下部为“口”字，组合起来构成“喜”字。字形标准，笔画清晰完整，没有产生歧义的可能。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "喜",
+        "probabilities": [
+          {
+            "char": "喜",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构，上部为“吉”，下部为“口”，完整构成了“喜”字。字形规范，笔画清晰，没有与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "喜",
+        "probabilities": [
+          {
+            "char": "喜",
+            "p": 0.9
+          },
+          {
+            "char": "嘉",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构，字形完整清晰。上部为“壴”，下部为“口”，明确构成了“喜”字。几乎没有产生歧义的可能。将“嘉”列为极低概率的候选，是考虑到其与“喜”字共享相同的上部“壴”，但在下部部件上存在明显差异（“力” vs “口”）。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "喜",
+        "probabilities": [
+          {
+            "char": "喜",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为标准的上下结构。上部为“吉”字，下部为“口”字，组合起来唯一确定为“喜”字。字形清晰，无歧义。"
+      }
+    }
+  ]
+}

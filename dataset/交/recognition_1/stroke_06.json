@@ -1,0 +1,113 @@
+{
+  "character": "交",
+  "stroke_name": "stroke_06",
+  "image_path": "dataset/交/stroke_06.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "交",
+        "probabilities": [
+          {
+            "char": "交",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“亠”字头，下部为撇捺交叉。字形结构完整、清晰，笔画无缺失，可以唯一确定为“交”字，没有其他可能的候选字。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "交",
+        "probabilities": [
+          {
+            "char": "交",
+            "p": 0.9
+          },
+          {
+            "char": "文",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个完整的汉字。其结构由上方的“亠”部和下方的交叉笔画组成。这个组合唯一地构成了汉字“交”。字形非常标准清晰，几乎没有产生歧义的可能。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "交",
+        "probabilities": [
+          {
+            "char": "交",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字笔画完整，结构清晰、标准。上部为“亠”字头，下部为相交的撇、捺，整体构成了唯一的汉字“交”。字形不存在与其他汉字混淆的特征。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "交",
+        "probabilities": [
+          {
+            "char": "交",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰、完整。其上部为“亠”部，下部为撇和捺交叉形成的“乂”部。这两个部分的组合唯一地构成了汉字“交”。该字的书写风格标准，没有与其他字形产生混淆的明显特征。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "交",
+        "probabilities": [
+          {
+            "char": "交",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰，所有笔画均已完成。其上部为“亠”部，下部为交叉的撇捺，整体构成了“交”字。该字形为标准的楷书或宋体，特征明确，无明显歧义。"
+      }
+    }
+  ]
+}

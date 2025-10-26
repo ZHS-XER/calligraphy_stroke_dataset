@@ -1,0 +1,113 @@
+{
+  "character": "炎",
+  "stroke_name": "stroke_08",
+  "image_path": "dataset/炎/stroke_08.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "炎",
+        "probabilities": [
+          {
+            "char": "炎",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰，由上下两个“火”字堆叠而成，是“炎”字的标准写法。所有笔画均已完成，字形无歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "炎",
+        "probabilities": [
+          {
+            "char": "炎",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构，由两个'火'字堆叠而成，是'炎'字的典型写法。字形标准，笔画完整清晰，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "炎",
+        "probabilities": [
+          {
+            "char": "炎",
+            "p": 0.95
+          },
+          {
+            "char": "火",
+            "p": 0.05
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由两个“火”字上下堆叠构成，这是“炎”字的标准结构。字形为楷书，笔画清晰，结构完整，辨识度极高，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "炎",
+        "probabilities": [
+          {
+            "char": "炎",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构，由两个'火'字堆叠而成。上'火'下'火'的组合明确构成了汉字'炎'。字形标准，笔画清晰，无其他可能的相似汉字，因此确定性极高。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "炎",
+        "probabilities": [
+          {
+            "char": "炎",
+            "p": 0.95
+          },
+          {
+            "char": "火",
+            "p": 0.05
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构，由两个“火”字堆叠而成。此结构唯一地构成了“炎”字。该字形为标准楷书，笔画清晰完整，几乎没有歧义。"
+      }
+    }
+  ]
+}

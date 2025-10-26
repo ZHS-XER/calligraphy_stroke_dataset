@@ -1,0 +1,113 @@
+{
+  "character": "共",
+  "stroke_name": "stroke_06",
+  "image_path": "dataset/共/stroke_06.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "共",
+        "probabilities": [
+          {
+            "char": "共",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字的笔画和结构已全部完成。其上部为两横和一竖，下部为“八”字形，整体构成了“共”字。该字形特征明确，没有其他结构相似的汉字会造成混淆。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "共",
+        "probabilities": [
+          {
+            "char": "共",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰、完整，由上部的类“廿”字头（两横两竖）和下部的“八”字底构成，这是“共”字的典型结构。字形标准，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "共",
+        "probabilities": [
+          {
+            "char": "共",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰，所有笔画均已完成。上方由一横、一竖、一提组成，下方为左右对称的两点（或撇捺），构成了“共”字的标准楷书写法。其结构独特，与其他汉字不易混淆，因此可以唯一确定为“共”。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "共",
+        "probabilities": [
+          {
+            "char": "共",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字笔画和结构均已完成且非常清晰。上部由两横一竖构成，下部为“八”字底，整体构成了“共”字的标准楷书写法，不存在明显的歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "共",
+        "probabilities": [
+          {
+            "char": "共",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰，笔画完整。上部为两横两竖，下部为八字底。此结构唯一地指向汉字“共”。字形标准，无明显歧义，因此判定为“共”的置信度极高。"
+      }
+    }
+  ]
+}

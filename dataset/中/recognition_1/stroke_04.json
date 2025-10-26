@@ -1,0 +1,113 @@
+{
+  "character": "中",
+  "stroke_name": "stroke_04",
+  "image_path": "dataset/中/stroke_04.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "中",
+        "probabilities": [
+          {
+            "char": "中",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由一个“口”和一个贯穿其中的竖笔“丨”组成，所有笔画均已完成。此为“中”字的标准楷书写法，结构清晰，无任何歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "中",
+        "probabilities": [
+          {
+            "char": "中",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰，由一个“口”字框和一个贯穿其中的竖笔“丨”组成。所有笔画均已完成，形态完整标准，唯一确定为“中”字。该字形无明显歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "中",
+        "probabilities": [
+          {
+            "char": "中",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像清晰地展示了一个由“口”和贯穿中心的一竖“丨”组成的汉字。这是汉字“中”的标准写法，结构完整且无任何歧义。所有笔画均已完成，不存在其他可能的汉字。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "中",
+        "probabilities": [
+          {
+            "char": "中",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由一个“口”字框和一个穿过中心的竖笔“丨”构成，共四笔。该结构和笔画组合唯一地指向汉字“中”。字形为标准的楷书，没有与其他字（如“申”或“串”）产生混淆的风格化特征。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "中",
+        "probabilities": [
+          {
+            "char": "中",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰、完整，由一个“口”部和一个贯穿中心的竖笔画“丨”组成。该形态是汉字“中”的标准写法，没有歧义，也无其他形近字与之混淆。"
+      }
+    }
+  ]
+}

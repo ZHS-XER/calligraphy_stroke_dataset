@@ -1,0 +1,719 @@
+[
+  {
+    "image_path": "../frames/包/frame_001.jpg",
+    "image_name": "frame_001.jpg",
+    "recognition": {
+      "most_common_result": "气",
+      "most_common_count": 10,
+      "confidence": 100.0,
+      "all_results": {
+        "气": 10
+      },
+      "total_attempts": 10,
+      "successful_attempts": 10,
+      "failed_attempts": 0,
+      "success_rate": 100.0,
+      "elapsed_time": 15.748822689056396,
+      "all_json_responses": [
+        {
+          "attempt": 1,
+          "answer": "气",
+          "full_response": {
+            "answer": "气",
+            "probabilities": [
+              {
+                "char": "气",
+                "p": 0.8
+              },
+              {
+                "char": "氛",
+                "p": 0.15
+              },
+              {
+                "char": "氢",
+                "p": 0.05
+              }
+            ],
+            "rationale": "笔画结构与'气'相符，其他候选字与之差异较大。"
+          }
+        },
+        {
+          "attempt": 2,
+          "answer": "气",
+          "full_response": {
+            "answer": "气",
+            "probabilities": [
+              {
+                "char": "气",
+                "p": 0.8
+              },
+              {
+                "char": "乞",
+                "p": 0.15
+              },
+              {
+                "char": "千",
+                "p": 0.05
+              }
+            ],
+            "rationale": "根据可见笔画与结构，最符合的是'气'，其他两个字的笔画位置和形状有明显差异。"
+          }
+        },
+        {
+          "attempt": 3,
+          "answer": "气",
+          "full_response": {
+            "answer": "气",
+            "probabilities": [
+              {
+                "char": "气",
+                "p": 0.8
+              },
+              {
+                "char": "七",
+                "p": 0.15
+              },
+              {
+                "char": "忌",
+                "p": 0.05
+              }
+            ],
+            "rationale": "根据当前笔画和结构，最符合的是'气'，其他候选汉字的笔画与结构不符。"
+          }
+        },
+        {
+          "attempt": 4,
+          "answer": "气",
+          "full_response": {
+            "answer": "气",
+            "probabilities": [
+              {
+                "char": "气",
+                "p": 0.8
+              },
+              {
+                "char": "七",
+                "p": 0.15
+              },
+              {
+                "char": "仆",
+                "p": 0.05
+              }
+            ],
+            "rationale": "根据图中可见的笔画与结构，最符合的汉字为'气'，其他候选字的结构与之有明显差异。"
+          }
+        },
+        {
+          "attempt": 5,
+          "answer": "气",
+          "full_response": {
+            "answer": "气",
+            "probabilities": [
+              {
+                "char": "气",
+                "p": 0.8
+              },
+              {
+                "char": "牛",
+                "p": 0.15
+              },
+              {
+                "char": "氯",
+                "p": 0.05
+              }
+            ],
+            "rationale": "该字结构明显，且笔画特征与'气'最为吻合，其他候选字笔画相似度较低。"
+          }
+        },
+        {
+          "attempt": 6,
+          "answer": "气",
+          "full_response": {
+            "answer": "气",
+            "probabilities": [
+              {
+                "char": "气",
+                "p": 0.8
+              },
+              {
+                "char": "氛",
+                "p": 0.15
+              },
+              {
+                "char": "气",
+                "p": 0.05
+              }
+            ],
+            "rationale": "根据可见笔画与结构，最可能为'气'，'氛'区分较小，但其结构与'气'更贴近。"
+          }
+        },
+        {
+          "attempt": 7,
+          "answer": "气",
+          "full_response": {
+            "answer": "气",
+            "probabilities": [
+              {
+                "char": "气",
+                "p": 0.85
+              },
+              {
+                "char": "气",
+                "p": 0.1
+              },
+              {
+                "char": "氖",
+                "p": 0.05
+              }
+            ],
+            "rationale": "字形明显为'气'字，其他候选字与之结构相似，但笔画和位置不完全吻合。"
+          }
+        },
+        {
+          "attempt": 8,
+          "answer": "气",
+          "full_response": {
+            "answer": "气",
+            "probabilities": [
+              {
+                "char": "气",
+                "p": 0.8
+              },
+              {
+                "char": "艺",
+                "p": 0.15
+              },
+              {
+                "char": "忌",
+                "p": 0.05
+              }
+            ],
+            "rationale": "图中汉字结构清晰，符合'气'的笔画特征，且与其他候选字对比明显。"
+          }
+        },
+        {
+          "attempt": 9,
+          "answer": "气",
+          "full_response": {
+            "answer": "气",
+            "probabilities": [
+              {
+                "char": "气",
+                "p": 0.8
+              },
+              {
+                "char": "其",
+                "p": 0.15
+              },
+              {
+                "char": "乞",
+                "p": 0.05
+              }
+            ],
+            "rationale": "字的结构和笔画明显符合'气'字，'其'和'乞'字的笔画较少或结构不符。"
+          }
+        },
+        {
+          "attempt": 10,
+          "answer": "气",
+          "full_response": {
+            "answer": "气",
+            "probabilities": [
+              {
+                "char": "气",
+                "p": 0.95
+              },
+              {
+                "char": "忄",
+                "p": 0.03
+              },
+              {
+                "char": "艹",
+                "p": 0.02
+              }
+            ],
+            "rationale": "根据可见笔画与结构，最符合的汉字为'气'，其他候选字与其笔画差异明显。"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "image_path": "../frames/包/frame_002.jpg",
+    "image_name": "frame_002.jpg",
+    "recognition": {
+      "most_common_result": "句",
+      "most_common_count": 10,
+      "confidence": 100.0,
+      "all_results": {
+        "句": 10
+      },
+      "total_attempts": 10,
+      "successful_attempts": 10,
+      "failed_attempts": 0,
+      "success_rate": 100.0,
+      "elapsed_time": 14.543828010559082,
+      "all_json_responses": [
+        {
+          "attempt": 1,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "舉",
+                "p": 0.15
+              },
+              {
+                "char": "舊",
+                "p": 0.05
+              }
+            ],
+            "rationale": "字形结构与'句'完全一致，其他候选字与其笔画结构差异较大。"
+          }
+        },
+        {
+          "attempt": 2,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "古",
+                "p": 0.15
+              },
+              {
+                "char": "书",
+                "p": 0.05
+              }
+            ],
+            "rationale": "字形清晰，符合'句'的结构，其他候选字形相似度较低。"
+          }
+        },
+        {
+          "attempt": 3,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "守",
+                "p": 0.15
+              },
+              {
+                "char": "夸",
+                "p": 0.05
+              }
+            ],
+            "rationale": "根据笔画和结构，最明显的汉字为'句'，其他候选字与其相似但存在明显差异。"
+          }
+        },
+        {
+          "attempt": 4,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "夙",
+                "p": 0.15
+              },
+              {
+                "char": "冉",
+                "p": 0.05
+              }
+            ],
+            "rationale": "字形结构明显，符合'句'的笔画特点，其他字形较为相似但不够吻合。"
+          }
+        },
+        {
+          "attempt": 5,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "可",
+                "p": 0.15
+              },
+              {
+                "char": "舉",
+                "p": 0.05
+              }
+            ],
+            "rationale": "字形清晰，主要笔画与'句'一致，其他候选字形结构不同。"
+          }
+        },
+        {
+          "attempt": 6,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "舅",
+                "p": 0.15
+              },
+              {
+                "char": "具",
+                "p": 0.05
+              }
+            ],
+            "rationale": "主要笔画与结构符合'句'字，只有一小部分与'舅'字相似，可能导致歧义。"
+          }
+        },
+        {
+          "attempt": 7,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.9
+              },
+              {
+                "char": "夭",
+                "p": 0.05
+              },
+              {
+                "char": "亟",
+                "p": 0.05
+              }
+            ],
+            "rationale": "字形结构清晰，符合'句'字的笔画特征。"
+          }
+        },
+        {
+          "attempt": 8,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "夯",
+                "p": 0.15
+              },
+              {
+                "char": "亘",
+                "p": 0.05
+              }
+            ],
+            "rationale": "字形结构与'句'相符，其他候选字在笔画上存在明显差异。"
+          }
+        },
+        {
+          "attempt": 9,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "舉",
+                "p": 0.15
+              },
+              {
+                "char": "夾",
+                "p": 0.05
+              }
+            ],
+            "rationale": "根据笔画结构，最可能的汉字是'句'，其他候选字与其结构相似，但笔画不完全吻合。"
+          }
+        },
+        {
+          "attempt": 10,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "匣",
+                "p": 0.15
+              },
+              {
+                "char": "舉",
+                "p": 0.05
+              }
+            ],
+            "rationale": "该汉字的结构与笔画清晰，符合'句'字的特点，其他候选字与之相似但笔画不完全对应。"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "image_path": "../frames/包/frame_003.jpg",
+    "image_name": "frame_003.jpg",
+    "recognition": {
+      "most_common_result": "句",
+      "most_common_count": 10,
+      "confidence": 100.0,
+      "all_results": {
+        "句": 10
+      },
+      "total_attempts": 10,
+      "successful_attempts": 10,
+      "failed_attempts": 0,
+      "success_rate": 100.0,
+      "elapsed_time": 19.05818009376526,
+      "all_json_responses": [
+        {
+          "attempt": 1,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "匆",
+                "p": 0.15
+              },
+              {
+                "char": "亘",
+                "p": 0.05
+              }
+            ],
+            "rationale": "根据笔画结构，最明显的是'句'，其他候选字与其结构相似但笔画不完全相同。"
+          }
+        },
+        {
+          "attempt": 2,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "夸",
+                "p": 0.15
+              },
+              {
+                "char": "合",
+                "p": 0.05
+              }
+            ],
+            "rationale": "根据可见的笔画与结构，最符合的汉字是'句'，其他候选字与之存在较大差异。"
+          }
+        },
+        {
+          "attempt": 3,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "冂",
+                "p": 0.15
+              },
+              {
+                "char": "亘",
+                "p": 0.05
+              }
+            ],
+            "rationale": "根据已出现的笔画与结构，最可能的汉字为'句'，其他候选字笔画与结构差异明显。"
+          }
+        },
+        {
+          "attempt": 4,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "合",
+                "p": 0.15
+              },
+              {
+                "char": "匡",
+                "p": 0.05
+              }
+            ],
+            "rationale": "主要笔画与结构明确，最可能为'句'，其他字与之相似度较低。"
+          }
+        },
+        {
+          "attempt": 5,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "句",
+                "p": 0.15
+              },
+              {
+                "char": "可",
+                "p": 0.05
+              }
+            ],
+            "rationale": "该字的笔画结构与'句'相符，且没有明显的歧义。"
+          }
+        },
+        {
+          "attempt": 6,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "句",
+                "p": 0.15
+              },
+              {
+                "char": "可",
+                "p": 0.05
+              }
+            ],
+            "rationale": "字形结构清晰，符合'句'的笔画特征，其他候选字与之差异较大。"
+          }
+        },
+        {
+          "attempt": 7,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "可",
+                "p": 0.1
+              },
+              {
+                "char": "夭",
+                "p": 0.1
+              }
+            ],
+            "rationale": "该字的结构和笔画与'句'完全一致，其他候选字的笔画与结构不符。"
+          }
+        },
+        {
+          "attempt": 8,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "舅",
+                "p": 0.15
+              },
+              {
+                "char": "屈",
+                "p": 0.05
+              }
+            ],
+            "rationale": "根据可见的笔画与结构，字形与'句'相符，其他候选字形相似度较低。"
+          }
+        },
+        {
+          "attempt": 9,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "可",
+                "p": 0.15
+              },
+              {
+                "char": "夸",
+                "p": 0.05
+              }
+            ],
+            "rationale": "根据已出现的笔画与结构，最符合的汉字为'句'，其他候选字与其结构差异较大。"
+          }
+        },
+        {
+          "attempt": 10,
+          "answer": "句",
+          "full_response": {
+            "answer": "句",
+            "probabilities": [
+              {
+                "char": "句",
+                "p": 0.8
+              },
+              {
+                "char": "夾",
+                "p": 0.15
+              },
+              {
+                "char": "冀",
+                "p": 0.05
+              }
+            ],
+            "rationale": "笔画结构与'句'完全一致，其他字形相似但有明显不同之处。"
+          }
+        }
+      ]
+    }
+  }
+]

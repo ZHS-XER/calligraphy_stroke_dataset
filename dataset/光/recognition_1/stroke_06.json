@@ -1,0 +1,113 @@
+{
+  "character": "光",
+  "stroke_name": "stroke_06",
+  "image_path": "dataset/光/stroke_06.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "光",
+        "probabilities": [
+          {
+            "char": "光",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字所有笔画均已完成。其结构为上“小”下“儿”的组合，笔画清晰，形态标准，是汉字“光”的楷书写法。该字形非常明确，没有其他常见的形近字会造成混淆。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "光",
+        "probabilities": [
+          {
+            "char": "光",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构，笔画已全部完成。其上部为'光'字头（由竖、撇、点等笔画构成），下部为'儿'字底。该结构唯一指向'光'字，没有其他形态相似的常见汉字。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "光",
+        "probabilities": [
+          {
+            "char": "光",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为上下结构。上部为“⺍”部，下部为“儿”部。所有笔画均已写完，字形结构清晰、标准，可以唯一确定为汉字“光”，不存在明显歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "光",
+        "probabilities": [
+          {
+            "char": "光",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为上下结构。上部为“小”的变形，由竖、点、撇构成；下部为“儿”字底。所有笔画均已写完，字形结构清晰，可以唯一确定为“光”字，无明显歧义字。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "光",
+        "probabilities": [
+          {
+            "char": "光",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“⺌”字头，下部为“儿”字底。所有笔画均已完成，字形结构清晰、标准，无明显歧义，可以唯一确定为“光”字。"
+      }
+    }
+  ]
+}

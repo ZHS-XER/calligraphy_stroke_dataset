@@ -1,0 +1,113 @@
+{
+  "character": "战",
+  "stroke_name": "stroke_09",
+  "image_path": "dataset/战/stroke_09.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "战",
+        "probabilities": [
+          {
+            "char": "战",
+            "p": 0.95
+          },
+          {
+            "char": "觇",
+            "p": 0.05
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构，左部为“占”，右部为“戈”，合起来为“战”字。图像中的字体为楷书，笔画完整清晰，所有笔画均已完成，结构明确，因此可以唯一确定为“战”字。几乎没有产生歧义的可能。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "战",
+        "probabilities": [
+          {
+            "char": "战",
+            "p": 0.95
+          },
+          {
+            "char": "哉",
+            "p": 0.05
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为标准的左右结构。左部为“占”，右部为“戈”，组合而成“战”字。字形完整清晰，识别确定性很高，几乎没有歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "战",
+        "probabilities": [
+          {
+            "char": "战",
+            "p": 0.9
+          },
+          {
+            "char": "栈",
+            "p": 0.05
+          },
+          {
+            "char": "点",
+            "p": 0.05
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“占”，右部为“戈”，组合起来是“战”字。该字的笔画和结构都十分清晰，辨识度高，几乎没有歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "战",
+        "probabilities": [
+          {
+            "char": "战",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“占”，右部为“戈”，组合起来是“战”字。字形结构标准清晰，笔画完整，不存在易混淆的其它汉字。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "战",
+        "probabilities": [
+          {
+            "char": "战",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“占”，右部为“戈”，组合而成“战”字。字形完整清晰，没有明显歧义。"
+      }
+    }
+  ]
+}

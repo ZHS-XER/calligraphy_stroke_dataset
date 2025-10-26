@@ -1,0 +1,9700 @@
+{
+  "哄": {
+    "stroke_09": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 2
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "厨": {
+    "stroke_12": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_11": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_10": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "丘": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 3
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 11
+      },
+      {
+        "run_id": 4,
+        "retry_count": 7
+      },
+      {
+        "run_id": 5,
+        "retry_count": 4
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 28
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 41
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "上": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 5
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 8
+      },
+      {
+        "run_id": 2,
+        "retry_count": 33
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ]
+  },
+  "串": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 2
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 16
+      },
+      {
+        "run_id": 5,
+        "retry_count": 21
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 16
+      },
+      {
+        "run_id": 2,
+        "retry_count": 26
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 30
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 28
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "乌": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 10
+      },
+      {
+        "run_id": 4,
+        "retry_count": 9
+      },
+      {
+        "run_id": 5,
+        "retry_count": 20
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 29
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 41
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "丞": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 13
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 26
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 27
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 28
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "么": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 10
+      },
+      {
+        "run_id": 4,
+        "retry_count": 26
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 41
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 29
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 38
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 32
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "世": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 5
+      },
+      {
+        "run_id": 3,
+        "retry_count": 7
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 26
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 2
+      },
+      {
+        "run_id": 2,
+        "retry_count": 12
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 28
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 4
+      },
+      {
+        "run_id": 3,
+        "retry_count": 35
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "丛": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 8
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 20
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 27
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 13
+      },
+      {
+        "run_id": 3,
+        "retry_count": 26
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "丁": {
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 4
+      },
+      {
+        "run_id": 3,
+        "retry_count": 11
+      },
+      {
+        "run_id": 4,
+        "retry_count": 26
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "丹": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 18
+      },
+      {
+        "run_id": 4,
+        "retry_count": 20
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 10
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 28
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 41
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 29
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "专": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 16
+      },
+      {
+        "run_id": 3,
+        "retry_count": 24
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 4
+      },
+      {
+        "run_id": 4,
+        "retry_count": 26
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 2
+      },
+      {
+        "run_id": 2,
+        "retry_count": 39
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "不": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 10
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 8
+      },
+      {
+        "run_id": 5,
+        "retry_count": 22
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 13
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 28
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 8
+      },
+      {
+        "run_id": 2,
+        "retry_count": 7
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 28
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "丝": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 35
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 10
+      },
+      {
+        "run_id": 3,
+        "retry_count": 9
+      },
+      {
+        "run_id": 4,
+        "retry_count": 19
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 26
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ]
+  },
+  "下": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 7
+      },
+      {
+        "run_id": 3,
+        "retry_count": 21
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 6
+      },
+      {
+        "run_id": 2,
+        "retry_count": 16
+      },
+      {
+        "run_id": 3,
+        "retry_count": 21
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "万": {
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 38
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 30
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "两": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 10
+      },
+      {
+        "run_id": 5,
+        "retry_count": 28
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 37
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "丽": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 37
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 29
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 8
+      },
+      {
+        "run_id": 2,
+        "retry_count": 32
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 29
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ]
+  },
+  "个": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 26
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 38
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 3
+      },
+      {
+        "run_id": 2,
+        "retry_count": 38
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "主": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 9
+      },
+      {
+        "run_id": 3,
+        "retry_count": 27
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 32
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "且": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 26
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 26
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 39
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ]
+  },
+  "乏": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 4
+      },
+      {
+        "run_id": 3,
+        "retry_count": 23
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 41
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 41
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "严": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 5
+      },
+      {
+        "run_id": 3,
+        "retry_count": 10
+      },
+      {
+        "run_id": 4,
+        "retry_count": 28
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 30
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 28
+      },
+      {
+        "run_id": 3,
+        "retry_count": 46
+      },
+      {
+        "run_id": 4,
+        "retry_count": 6
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "久": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 27
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 30
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "义": {
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 7
+      },
+      {
+        "run_id": 3,
+        "retry_count": 22
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 41
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 25
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "之": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 26
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 29
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "丰": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 14
+      },
+      {
+        "run_id": 3,
+        "retry_count": 27
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 37
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 30
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 36
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ]
+  },
+  "丸": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 20
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 21
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ]
+  },
+  "丢": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 18
+      },
+      {
+        "run_id": 2,
+        "retry_count": 22
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 11
+      },
+      {
+        "run_id": 3,
+        "retry_count": 24
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 29
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "业": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 8
+      },
+      {
+        "run_id": 2,
+        "retry_count": 33
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 37
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 19
+      },
+      {
+        "run_id": 3,
+        "retry_count": 22
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 28
+      }
+    ]
+  },
+  "丑": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 9
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 26
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 29
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 3
+      },
+      {
+        "run_id": 2,
+        "retry_count": 12
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ]
+  },
+  "丈": {
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 36
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 29
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 18
+      },
+      {
+        "run_id": 2,
+        "retry_count": 24
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 29
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 41
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 32
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "中": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 29
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 8
+      },
+      {
+        "run_id": 2,
+        "retry_count": 8
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 28
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ]
+  },
+  "七": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 37
+      },
+      {
+        "run_id": 3,
+        "retry_count": 30
+      },
+      {
+        "run_id": 4,
+        "retry_count": 4
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "临": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 35
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 29
+      }
+    ],
+    "stroke_09": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 40
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 16
+      }
+    ]
+  },
+  "为": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 27
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 35
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 28
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 32
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "三": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 41
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 29
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 41
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 6
+      },
+      {
+        "run_id": 2,
+        "retry_count": 12
+      },
+      {
+        "run_id": 3,
+        "retry_count": 26
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ]
+  },
+  "一": {
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 37
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ]
+  },
+  "乎": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 11
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 29
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 16
+      },
+      {
+        "run_id": 2,
+        "retry_count": 24
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 32
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "也": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 30
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 32
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 25
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ]
+  },
+  "举": {
+    "stroke_09": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ],
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 28
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ]
+  },
+  "与": {
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 35
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 14
+      },
+      {
+        "run_id": 2,
+        "retry_count": 28
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 32
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "东": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 13
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 13
+      },
+      {
+        "run_id": 3,
+        "retry_count": 27
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ]
+  },
+  "丧": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 10
+      },
+      {
+        "run_id": 3,
+        "retry_count": 27
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 41
+      },
+      {
+        "run_id": 2,
+        "retry_count": 30
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "乞": {
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 29
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "九": {
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ]
+  },
+  "书": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 29
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 31
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "乃": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 16
+      },
+      {
+        "run_id": 2,
+        "retry_count": 26
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 17
+      }
+    ]
+  },
+  "事": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 29
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 31
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 16
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 30
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 7
+      }
+    ]
+  },
+  "乘": {
+    "stroke_09": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_10": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ],
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "乐": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 10
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 32
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "乖": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 22
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 40
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 21
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 27
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "于": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 29
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 30
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 29
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "乡": {
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 30
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "云": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 2
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 3
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "买": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 30
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ]
+  },
+  "互": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 3
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 3
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ]
+  },
+  "了": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 30
+      },
+      {
+        "run_id": 2,
+        "retry_count": 4
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 18
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ]
+  },
+  "二": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 31
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 31
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ]
+  },
+  "习": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 30
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 30
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "亚": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 16
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "五": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 2
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "亏": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 30
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 4
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "乱": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 29
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 30
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ]
+  },
+  "些": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 17
+      }
+    ]
+  },
+  "予": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 30
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 16
+      }
+    ]
+  },
+  "井": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 17
+      }
+    ]
+  },
+  "争": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 30
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 31
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "亡": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 18
+      }
+    ]
+  },
+  "乳": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 30
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 17
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 18
+      }
+    ]
+  },
+  "交": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 17
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "人": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "什": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 17
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "产": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 16
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "享": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 17
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 17
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 7
+      }
+    ]
+  },
+  "京": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 16
+      }
+    ],
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 17
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 6
+      }
+    ]
+  },
+  "亮": {
+    "stroke_09": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 17
+      }
+    ],
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 15
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "亿": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 17
+      }
+    ],
+    "stroke_01": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 18
+      },
+      {
+        "run_id": 4,
+        "retry_count": 6
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "仁": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 18
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ]
+  },
+  "亭": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 16
+      }
+    ],
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 16
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_09": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 18
+      }
+    ]
+  },
+  "付": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 16
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 23
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ]
+  },
+  "从": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 5
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 18
+      },
+      {
+        "run_id": 4,
+        "retry_count": 9
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ]
+  },
+  "仆": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 17
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 16
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "今": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 23
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 4
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 54
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "仇": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 23
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ]
+  },
+  "仅": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 7
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ]
+  },
+  "仍": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 18
+      },
+      {
+        "run_id": 4,
+        "retry_count": 5
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 9
+      }
+    ]
+  },
+  "亩": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 18
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 7
+      },
+      {
+        "run_id": 5,
+        "retry_count": 60
+      }
+    ]
+  },
+  "亲": {
+    "stroke_09": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 18
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 18
+      },
+      {
+        "run_id": 5,
+        "retry_count": 6
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 6
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ]
+  },
+  "代": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 5
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 8
+      }
+    ]
+  },
+  "仔": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 16
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 7
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 37
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 59
+      }
+    ]
+  },
+  "他": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 16
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 7
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 7
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ]
+  },
+  "介": {
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 18
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 18
+      },
+      {
+        "run_id": 4,
+        "retry_count": 7
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 9
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ]
+  },
+  "令": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 7
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 16
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 6
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 7
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ]
+  },
+  "伏": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 16
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 6
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 16
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 8
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 15
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 7
+      },
+      {
+        "run_id": 4,
+        "retry_count": 34
+      },
+      {
+        "run_id": 5,
+        "retry_count": 39
+      }
+    ]
+  },
+  "仗": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 17
+      },
+      {
+        "run_id": 5,
+        "retry_count": 7
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 9
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 17
+      },
+      {
+        "run_id": 4,
+        "retry_count": 9
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ]
+  },
+  "以": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 2
+      },
+      {
+        "run_id": 2,
+        "retry_count": 16
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 6
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 7
+      }
+    ],
+    "stroke_02": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 36
+      }
+    ]
+  },
+  "伍": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 16
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 7
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 16
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 6
+      },
+      {
+        "run_id": 5,
+        "retry_count": 4
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 16
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 6
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ]
+  },
+  "仪": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 9
+      }
+    ],
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 6
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 16
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 6
+      },
+      {
+        "run_id": 5,
+        "retry_count": 4
+      }
+    ]
+  },
+  "仰": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 7
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 18
+      },
+      {
+        "run_id": 2,
+        "retry_count": 38
+      },
+      {
+        "run_id": 3,
+        "retry_count": 30
+      },
+      {
+        "run_id": 4,
+        "retry_count": 11
+      },
+      {
+        "run_id": 5,
+        "retry_count": 20
+      }
+    ]
+  },
+  "仿": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 6
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 7
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 18
+      },
+      {
+        "run_id": 2,
+        "retry_count": 7
+      },
+      {
+        "run_id": 3,
+        "retry_count": 4
+      },
+      {
+        "run_id": 4,
+        "retry_count": 32
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "传": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 5
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 6
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ]
+  },
+  "伊": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 5
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 18
+      },
+      {
+        "run_id": 2,
+        "retry_count": 37
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 55
+      },
+      {
+        "run_id": 2,
+        "retry_count": 30
+      },
+      {
+        "run_id": 3,
+        "retry_count": 4
+      },
+      {
+        "run_id": 4,
+        "retry_count": 29
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "伐": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 7
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 8
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 38
+      },
+      {
+        "run_id": 4,
+        "retry_count": 57
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "众": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 7
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 7
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 9
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 29
+      }
+    ]
+  },
+  "伯": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 3
+      },
+      {
+        "run_id": 2,
+        "retry_count": 5
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 7
+      },
+      {
+        "run_id": 2,
+        "retry_count": 32
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 6
+      },
+      {
+        "run_id": 2,
+        "retry_count": 4
+      },
+      {
+        "run_id": 3,
+        "retry_count": 30
+      },
+      {
+        "run_id": 4,
+        "retry_count": 29
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ]
+  },
+  "会": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 4
+      },
+      {
+        "run_id": 3,
+        "retry_count": 4
+      },
+      {
+        "run_id": 4,
+        "retry_count": 4
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 35
+      },
+      {
+        "run_id": 5,
+        "retry_count": 4
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 9
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 29
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ]
+  },
+  "仙": {
+    "stroke_03": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 6
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 18
+      },
+      {
+        "run_id": 4,
+        "retry_count": 6
+      },
+      {
+        "run_id": 5,
+        "retry_count": 33
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 17
+      },
+      {
+        "run_id": 3,
+        "retry_count": 8
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 87
+      }
+    ]
+  },
+  "伟": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 7
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 4
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 4
+      },
+      {
+        "run_id": 4,
+        "retry_count": 32
+      },
+      {
+        "run_id": 5,
+        "retry_count": 58
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 6
+      },
+      {
+        "run_id": 3,
+        "retry_count": 33
+      },
+      {
+        "run_id": 4,
+        "retry_count": 57
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "份": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 7
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 8
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 7
+      },
+      {
+        "run_id": 5,
+        "retry_count": 33
+      }
+    ]
+  },
+  "伞": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 8
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 6
+      },
+      {
+        "run_id": 3,
+        "retry_count": 4
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 5
+      },
+      {
+        "run_id": 4,
+        "retry_count": 34
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ]
+  },
+  "件": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 37
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 16
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 37
+      },
+      {
+        "run_id": 5,
+        "retry_count": 58
+      }
+    ]
+  },
+  "低": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 4
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 29
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 58
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 33
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 27
+      },
+      {
+        "run_id": 5,
+        "retry_count": 2
+      }
+    ]
+  },
+  "优": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 9
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 9
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 6
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ]
+  },
+  "伴": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 6
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 6
+      },
+      {
+        "run_id": 2,
+        "retry_count": 33
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 29
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "休": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 8
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 7
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 38
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 39
+      },
+      {
+        "run_id": 5,
+        "retry_count": 19
+      }
+    ]
+  },
+  "任": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 18
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 5
+      },
+      {
+        "run_id": 4,
+        "retry_count": 4
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 23
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 39
+      },
+      {
+        "run_id": 4,
+        "retry_count": 57
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ]
+  },
+  "伙": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 37
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 7
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 33
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 8
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 57
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "们": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 16
+      },
+      {
+        "run_id": 3,
+        "retry_count": 6
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 29
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 18
+      },
+      {
+        "run_id": 3,
+        "retry_count": 7
+      },
+      {
+        "run_id": 4,
+        "retry_count": 34
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ]
+  },
+  "似": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 3
+      },
+      {
+        "run_id": 2,
+        "retry_count": 5
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 32
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 38
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 30
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 28
+      }
+    ]
+  },
+  "伸": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 4
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 8
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 29
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 9
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ]
+  },
+  "价": {
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 10
+      },
+      {
+        "run_id": 4,
+        "retry_count": 29
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 4
+      },
+      {
+        "run_id": 4,
+        "retry_count": 8
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 7
+      },
+      {
+        "run_id": 5,
+        "retry_count": 34
+      }
+    ]
+  },
+  "体": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 34
+      },
+      {
+        "run_id": 3,
+        "retry_count": 30
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 29
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 4
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 30
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ]
+  },
+  "伦": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 6
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 32
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 9
+      },
+      {
+        "run_id": 2,
+        "retry_count": 30
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 10
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 58
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "企": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 7
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 34
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 18
+      },
+      {
+        "run_id": 2,
+        "retry_count": 7
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_04": [
+      {
+        "run_id": 1,
+        "retry_count": 17
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 37
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 27
+      }
+    ]
+  },
+  "估": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 7
+      },
+      {
+        "run_id": 2,
+        "retry_count": 4
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 6
+      },
+      {
+        "run_id": 2,
+        "retry_count": 34
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 29
+      }
+    ]
+  },
+  "伤": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 37
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 9
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 30
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ]
+  },
+  "侠": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 30
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 30
+      },
+      {
+        "run_id": 5,
+        "retry_count": 4
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 31
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 9
+      },
+      {
+        "run_id": 5,
+        "retry_count": 20
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 31
+      },
+      {
+        "run_id": 2,
+        "retry_count": 29
+      },
+      {
+        "run_id": 3,
+        "retry_count": 30
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "作": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 2
+      },
+      {
+        "run_id": 2,
+        "retry_count": 32
+      },
+      {
+        "run_id": 3,
+        "retry_count": 30
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 39
+      },
+      {
+        "run_id": 4,
+        "retry_count": 19
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "侧": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 30
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 11
+      }
+    ]
+  },
+  "住": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 4
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 32
+      },
+      {
+        "run_id": 5,
+        "retry_count": 9
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 4
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 59
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 2
+      },
+      {
+        "run_id": 3,
+        "retry_count": 59
+      },
+      {
+        "run_id": 4,
+        "retry_count": 31
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "侍": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 29
+      },
+      {
+        "run_id": 3,
+        "retry_count": 2
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 39
+      }
+    ],
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 30
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 59
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 29
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 57
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "侨": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 2
+      },
+      {
+        "run_id": 5,
+        "retry_count": 15
+      }
+    ]
+  },
+  "佳": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 30
+      },
+      {
+        "run_id": 3,
+        "retry_count": 4
+      },
+      {
+        "run_id": 4,
+        "retry_count": 27
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 30
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 27
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 30
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 58
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "位": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 8
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 29
+      },
+      {
+        "run_id": 4,
+        "retry_count": 3
+      },
+      {
+        "run_id": 5,
+        "retry_count": 58
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 5
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 39
+      },
+      {
+        "run_id": 5,
+        "retry_count": 21
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 37
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 39
+      },
+      {
+        "run_id": 4,
+        "retry_count": 20
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "使": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 32
+      },
+      {
+        "run_id": 5,
+        "retry_count": 28
+      }
+    ],
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 30
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "何": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 4
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 58
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 4
+      },
+      {
+        "run_id": 2,
+        "retry_count": 29
+      },
+      {
+        "run_id": 3,
+        "retry_count": 39
+      },
+      {
+        "run_id": 4,
+        "retry_count": 19
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "但": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 9
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 30
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 30
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 38
+      },
+      {
+        "run_id": 2,
+        "retry_count": 39
+      },
+      {
+        "run_id": 3,
+        "retry_count": 20
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "你": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 3
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 30
+      },
+      {
+        "run_id": 5,
+        "retry_count": 31
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 29
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 10
+      },
+      {
+        "run_id": 5,
+        "retry_count": 20
+      }
+    ],
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 29
+      },
+      {
+        "run_id": 3,
+        "retry_count": 35
+      },
+      {
+        "run_id": 4,
+        "retry_count": 20
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "佛": {
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 3
+      },
+      {
+        "run_id": 2,
+        "retry_count": 30
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 58
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 57
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 11
+      },
+      {
+        "run_id": 5,
+        "retry_count": 21
+      }
+    ]
+  },
+  "侣": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 29
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 27
+      },
+      {
+        "run_id": 5,
+        "retry_count": 3
+      }
+    ],
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 29
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 59
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "例": {
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 29
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 32
+      },
+      {
+        "run_id": 5,
+        "retry_count": 28
+      }
+    ],
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 30
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 59
+      }
+    ]
+  },
+  "余": {
+    "stroke_05": [
+      {
+        "run_id": 1,
+        "retry_count": 2
+      },
+      {
+        "run_id": 2,
+        "retry_count": 3
+      },
+      {
+        "run_id": 3,
+        "retry_count": 28
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 58
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 33
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 32
+      },
+      {
+        "run_id": 4,
+        "retry_count": 28
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 33
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 57
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "侯": {
+    "stroke_09": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 39
+      },
+      {
+        "run_id": 3,
+        "retry_count": 20
+      },
+      {
+        "run_id": 4,
+        "retry_count": 1
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "侵": {
+    "stroke_09": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 57
+      },
+      {
+        "run_id": 3,
+        "retry_count": 1
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "侦": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 2
+      },
+      {
+        "run_id": 2,
+        "retry_count": 31
+      },
+      {
+        "run_id": 3,
+        "retry_count": 11
+      },
+      {
+        "run_id": 4,
+        "retry_count": 21
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 31
+      },
+      {
+        "run_id": 4,
+        "retry_count": 29
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "依": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 31
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 59
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "倍": {
+    "stroke_10": [
+      {
+        "run_id": 1,
+        "retry_count": 20
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "供": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 31
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 59
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_07": [
+      {
+        "run_id": 1,
+        "retry_count": 31
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 58
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ],
+    "stroke_06": [
+      {
+        "run_id": 1,
+        "retry_count": 31
+      },
+      {
+        "run_id": 2,
+        "retry_count": 32
+      },
+      {
+        "run_id": 3,
+        "retry_count": 9
+      },
+      {
+        "run_id": 4,
+        "retry_count": 20
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "俯": {
+    "stroke_10": [
+      {
+        "run_id": 1,
+        "retry_count": 28
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "借": {
+    "stroke_10": [
+      {
+        "run_id": 1,
+        "retry_count": 0
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "修": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 3
+      },
+      {
+        "run_id": 2,
+        "retry_count": 27
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "佩": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 58
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "信": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 19
+      },
+      {
+        "run_id": 3,
+        "retry_count": 4
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "促": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 27
+      },
+      {
+        "run_id": 3,
+        "retry_count": 3
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "保": {
+    "stroke_09": [
+      {
+        "run_id": 1,
+        "retry_count": 39
+      },
+      {
+        "run_id": 2,
+        "retry_count": 21
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "便": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 57
+      },
+      {
+        "run_id": 2,
+        "retry_count": 1
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "侄": {
+    "stroke_08": [
+      {
+        "run_id": 1,
+        "retry_count": 32
+      },
+      {
+        "run_id": 2,
+        "retry_count": 57
+      },
+      {
+        "run_id": 3,
+        "retry_count": 4
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ]
+  },
+  "俗": {
+    "stroke_09": [
+      {
+        "run_id": 1,
+        "retry_count": 30
+      },
+      {
+        "run_id": 2,
+        "retry_count": 4
+      },
+      {
+        "run_id": 3,
+        "retry_count": 29
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "侮": {
+    "stroke_09": [
+      {
+        "run_id": 1,
+        "retry_count": 57
+      },
+      {
+        "run_id": 2,
+        "retry_count": 4
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "倒": {
+    "stroke_10": [
+      {
+        "run_id": 1,
+        "retry_count": 16
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 0
+      }
+    ]
+  },
+  "倘": {
+    "stroke_10": [
+      {
+        "run_id": 1,
+        "retry_count": 1
+      },
+      {
+        "run_id": 2,
+        "retry_count": 0
+      },
+      {
+        "run_id": 3,
+        "retry_count": 0
+      },
+      {
+        "run_id": 4,
+        "retry_count": 0
+      },
+      {
+        "run_id": 5,
+        "retry_count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "character": "山",
+  "stroke_name": "stroke_03",
+  "image_path": "dataset/山/stroke_03.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "山",
+        "probabilities": [
+          {
+            "char": "山",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由三笔构成，中间一竖最高，左右两竖较短，形态清晰，是“山”字的典型楷书写法，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "山",
+        "probabilities": [
+          {
+            "char": "山",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个由三笔构成的完整汉字。其结构为中间一竖长，左右两竖短，是汉字“山”的标准、无歧义的楷书形态。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "山",
+        "probabilities": [
+          {
+            "char": "山",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由三笔构成，中间一竖最高，左右两竖较短，形态结构清晰，唯一指向汉字“山”。该字形为标准楷书，没有与其他汉字产生混淆的可能。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "山",
+        "probabilities": [
+          {
+            "char": "山",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像为一个完整的汉字，由三笔构成。其字形为中间一竖，左右各一竖折，形似山峰，是汉字“山”的标准写法。该字结构清晰，笔画完整，不存在任何可能的歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "山",
+        "probabilities": [
+          {
+            "char": "山",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由三笔构成，中间一竖最高，左右两竖较短，形态呈山峰状，是“山”字的标准写法。字形结构清晰，笔画完整，无明显歧义。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6997 @@
+{
+  "stats": {
+    "total": 2488,
+    "complete": 1790,
+    "incomplete": 527,
+    "missing": 0,
+    "complete_with_extra": 171
+  },
+  "problematic_chars": {
+    "incomplete": [
+      {
+        "character": "套",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "奠",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "妆",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "妇",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "妈",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "妒",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "妙",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "妨",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "妮",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "妹",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "妻",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "姆",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "始",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "姐",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "姑",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "姓",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "委",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "姨",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "姹",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "姿",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "威",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "娃",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "娇",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "娘",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "娜",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "娱",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "婆",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "婴",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "媚",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "媳",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "嫂",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "嫌",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "嫣",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "嫩",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "子",
+        "status": "incomplete",
+        "expected_files": 3,
+        "actual_files": 3,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "孔",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "字",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "存",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "孙",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "孟",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "季",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "寝",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)",
+            "run 3 的 llm_output 为 None (识别失败)",
+            "run 4 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "寞",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "寨",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_14.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "寻",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "导",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "封",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "射",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "将",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "尊",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "少",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "尔",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "尖",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "尘",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "尝",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "尤",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "就",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "尸",
+        "status": "incomplete",
+        "expected_files": 3,
+        "actual_files": 3,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_01.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "尺",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_01.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "尼",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_03.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "尽",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_02.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "尾",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "局",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "层",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "居",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "屈",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "屉",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "屋",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "屏",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "展",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "属",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "屯",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "岁",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "岂",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "岔",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "岖",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "岛",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "岩",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "岭",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "岷",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 2 的 llm_output 为 None (识别失败)",
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "岸",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "峡",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "峦",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "峭",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "峰",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "峻",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "崇",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "崎",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "崖",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "崭",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "川",
+        "status": "incomplete",
+        "expected_files": 3,
+        "actual_files": 3,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_02.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "州",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "巡",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_03.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "巢",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "工",
+        "status": "incomplete",
+        "expected_files": 3,
+        "actual_files": 3,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "左",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_02.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "巧",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 2 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "巨",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_01.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "差",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "已",
+        "status": "incomplete",
+        "expected_files": 3,
+        "actual_files": 3,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "巴",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "巷",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "巾",
+        "status": "incomplete",
+        "expected_files": 3,
+        "actual_files": 3,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "师",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "帕",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "帘",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "帜",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "帝",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "带",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "席",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "帮",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "常",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "帽",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "幅",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "幔",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "幕",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "干",
+        "status": "incomplete",
+        "expected_files": 3,
+        "actual_files": 3,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "平",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "年",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "并",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "幸",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "幻",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "怨",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "恍",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "恐",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "恙",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "恢",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "恨",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "恩",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "息",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "恰",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "恶",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "恼",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "悄",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "悉",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "悔",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "悟",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "悠",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "患",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "悦",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "您",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "悬",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "悲",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "情",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "惊",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "惑",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "惜",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "惠",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "惧",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "惨",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "惩",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "惫",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "惯",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "想",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "惹",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "愁",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "愈",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "愉",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "意",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "愚",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "感",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "愤",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "愧",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "愿",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "慈",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "慌",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "慎",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "慕",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "慢",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "慧",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "慰",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "懂",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "搬",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "撑",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_15.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "撕",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_15.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "播",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_15.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "撼",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_16.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "擂",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_16.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "操",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_15.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "擞",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_15.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "擦",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_16.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "收",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "改",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "攻",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "放",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "政",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "故",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "效",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "敌",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "敏",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "救",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "映",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "晰",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "暴",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_14.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "曲",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "更",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "曹",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "曼",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "曾",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "替",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "最",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "月",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "有",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "朋",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "服",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "朗",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "朝",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "期",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "朦",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_13.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "木",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "未",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "柄",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "某",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "柑",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "染",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "柔",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "柜",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "查",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "柱",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "柳",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "柴",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "柿",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "标",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "栋",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "栏",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "树",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "栗",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "校",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "株",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "样",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "核",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "桑",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "桨",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "桩",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "桶",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "梁",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "梅",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "梢",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "梦",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "梧",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "梨",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "梭",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "梯",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "械",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "梳",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "检",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "棉",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "棋",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "棒",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "棚",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "森",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "棵",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "椅",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "植",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "楚",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "楼",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "概",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "榆",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "榛",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "榨",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "榴",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_14.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "模",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_13.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "横",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_15.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_12.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "橘",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_13.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "橡",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "橱",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_15.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "檐",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_16.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "欠",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_02.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "次",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "欢",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "欣",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "欧",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "欲",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "欺",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "款",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "歇",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "歉",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "歌",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "止",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "正",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "此",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "武",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "歧",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "死",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "殊",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "残",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "殖",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "段",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "殿",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "毁",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_13.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "毅",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_15.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_12.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "母",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "每",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "毒",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "比",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_01.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "毕",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "毛",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "毡",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "毫",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "毯",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "氏",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "民",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "气",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "水",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "永",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "汁",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_02.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "求",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "汇",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_02.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "汉",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "汗",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "江",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_02.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "池",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "汤",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "汪",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "汽",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "沃",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "沉",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "沙",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "沟",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "没",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "沫",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "沮",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "河",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "沸",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "油",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "治",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "沾",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "沿",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "泉",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "泊",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "法",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "泛",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_03.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "泞",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "泡",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "波",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "泣",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "泥",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "注",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "泪",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "泰",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "泼",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "泽",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "洁",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "洋",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "洒",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "洗",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "洛",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "洞",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "津",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "洪",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "洲",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "活",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "洼",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "洽",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "派",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "流",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "浅",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "浆",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "浇",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "测",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "济",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "浑",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "浓",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "浙",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "浩",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "浪",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "浮",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "浴",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "海",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "浸",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "消",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "涉",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "涌",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "涛",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "润",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "涨",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "涩",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "涯",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "液",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "淋",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "淌",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "淘",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "淡",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "淮",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "深",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "混",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "淹",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "添",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "清",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "渐",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "渔",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "渠",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)",
+            "run 3 的 llm_output 为 None (识别失败)",
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "渡",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "渣",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "温",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "港",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "渲",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "渴",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "游",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "湖",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "湛",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "湾",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "湿",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "溅",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "溉",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "源",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "溜",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "溢",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "溪",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "滋",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "滑",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "滚",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "满",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "滤",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "滥",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "滨",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "滩",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "滴",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "漂",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "漆",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "演",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "漠",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "漫",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "漾",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "潜",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "潭",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "潮",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "痒",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "绪",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "绵",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "缕",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "缘",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "翘",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "翠",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_13.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "聪",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_15.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "肃",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "肆",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "肝",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "肠",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "股",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "肢",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "肤",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "肥",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "肩",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "肯",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "育",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "肺",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胁",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胃",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胆",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "背",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胎",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胖",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胚",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胜",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胞",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胡",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胧",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胯",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胳",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胶",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "胸",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "能",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "脂",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "脆",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)",
+            "run 4 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "脉",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "脊",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "脏",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "脑",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "脖",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "脚",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "脯",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "脱",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "脸",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "脾",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "腊",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "腔",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 3 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "腭",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "腮",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "腰",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "腹",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "腾",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "腿",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_13.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "膀",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_14.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "膊",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_14.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "膛",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_15.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_14.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_12.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "膝",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_15.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_14.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_12.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "臀",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_16.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_14.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "臂",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_16.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_15.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_14.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_13.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "臣",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_03.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "自",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_03.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "至",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_02.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "致",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "舅",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "舌",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_02.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "舍",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "舒",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "舔",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_12.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_14.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "舞",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_14.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "舟",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "航",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "般",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "舰",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "舱",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_08.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "船",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "艄",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "艇",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "良",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "艰",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_05.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "色",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_03.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "艳",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_07.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_06.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "艺",
+        "status": "incomplete",
+        "expected_files": 4,
+        "actual_files": 4,
+        "file_errors": {
+          "stroke_03.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_01.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "节",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_01.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_03.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "芬",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_03.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "花",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_03.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "芳",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 3 的 llm_output 为 None (识别失败)"
+          ],
+          "stroke_03.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "芽",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "苍",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "苏",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "苗",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_05.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "苟",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_04.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "锋",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_11.json": [
+            "run 1 的 llm_output 为 None (识别失败)",
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "陡",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "院",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 2 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "险",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 5 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "陵",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_10.json": [
+            "run 1 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      },
+      {
+        "character": "隐",
+        "status": "incomplete",
+        "expected_files": 5,
+        "actual_files": 5,
+        "file_errors": {
+          "stroke_09.json": [
+            "run 4 的 llm_output 为 None (识别失败)"
+          ]
+        }
+      }
+    ],
+    "missing": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "character": "串",
+  "stroke_name": "stroke_07",
+  "image_path": "dataset/串/stroke_07.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "串",
+        "probabilities": [
+          {
+            "char": "串",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字所有笔画均已完成。其结构为一根竖贯穿上下两个'口'字形部件，这是汉字'串'的唯一标准结构，特征非常明确，没有歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "串",
+        "probabilities": [
+          {
+            "char": "串",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由一根竖线贯穿上下两个“口”字形结构组成，这是“串”字的典型写法。图像中的字形完整、清晰，所有笔画都已写完，不存在与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "串",
+        "probabilities": [
+          {
+            "char": "串",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个完整的汉字。其结构为一根竖线贯穿上下两个方形（“口”）部件。这是汉字“串”的明确且标准的写法，字形特征非常独特，不存在与其他常见汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "串",
+        "probabilities": [
+          {
+            "char": "串",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由一根竖笔从上至下贯穿两个并列的“口”字形部件构成。该结构是“串”字的唯一标准写法，字形非常清晰，没有歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "串",
+        "probabilities": [
+          {
+            "char": "串",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰，由一根竖笔贯穿上下两个'口'字形部件构成，这是'串'字的典型写法。所有笔画均已完成，字形特征明确，没有其他常见汉字具有此种结构，因此可以唯一确定。"
+      }
+    }
+  ]
+}

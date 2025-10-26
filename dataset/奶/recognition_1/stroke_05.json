@@ -1,0 +1,113 @@
+{
+  "character": "奶",
+  "stroke_name": "stroke_05",
+  "image_path": "dataset/奶/stroke_05.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "奶",
+        "probabilities": [
+          {
+            "char": "奶",
+            "p": 0.9
+          },
+          {
+            "char": "乃",
+            "p": 0.05
+          },
+          {
+            "char": "好",
+            "p": 0.05
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为形旁“女”，右部为声旁“乃”，唯一构成的形声字是“奶”。字形完整，笔画清晰，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "奶",
+        "probabilities": [
+          {
+            "char": "奶",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“女”字旁，右部为“乃”字。两部分组合构成“奶”字。该字笔画清晰，结构标准，没有产生歧义的相似字形。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "奶",
+        "probabilities": [
+          {
+            "char": "奶",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字由左边的‘女’字旁和右边的‘乃’字组成，结构清晰，为汉字‘奶’。该字形体完整，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "奶",
+        "probabilities": [
+          {
+            "char": "奶",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为部首“女”，右部为声旁“乃”。这两个部分组合构成的唯一常用汉字是“奶”。图像中的字形清晰、完整，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "奶",
+        "probabilities": [
+          {
+            "char": "奶",
+            "p": 0.9
+          },
+          {
+            "char": "乃",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构，左部为清晰的“女”字旁，右部为“乃”字。两者结合构成汉字“奶”。该字形笔画完整，结构标准，几乎没有产生歧义的可能。将“乃”作为一个极低概率的候选，是基于可能忽略左侧偏旁的情况。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-10-26T04:20:40",
+    "parallelism": 128,
+    "total_calls": 28137,
+    "success": 2400,
+    "fail": 25737,
+    "fail_rate": 0.915,
+    "duration_sec": 6222.3,
+    "speed": 0.39
+  }
+]

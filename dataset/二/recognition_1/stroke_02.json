@@ -1,0 +1,113 @@
+{
+  "character": "二",
+  "stroke_name": "stroke_02",
+  "image_path": "dataset/二/stroke_02.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 0.9
+          },
+          {
+            "char": "三",
+            "p": 0.05
+          },
+          {
+            "char": "一",
+            "p": 0.05
+          }
+        ],
+        "rationale": "该汉字由两道平行的横画构成，上短下长。这是汉字“二”的标准写法，特征明确，无明显歧义。考虑到笔画数量的误判，将“三”和“一”作为极低概率的候选。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个完整的汉字，由上下两个横画构成。上横短，下横长，这是汉字“二”的标准写法。其结构极为明确，笔画清晰，不存在与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个完整的汉字，由两道平行的横画构成，且上方横画短于下方横画。这是汉字“二”的标准写法，结构清晰，特征明确，不存在其他可能的汉字。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由两个平行的横画构成，上横短，下横长。这是汉字“二”的标准写法。根据图像，所有笔画均已完成，字形结构非常清晰明确，不存在其他可能的解释。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "二",
+        "probabilities": [
+          {
+            "char": "二",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由两道横向笔画构成，上短下长。此结构唯一确定地指向汉字“二”，没有其他常见汉字或部首存在混淆的可能。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "character": "女",
+  "stroke_name": "stroke_03",
+  "image_path": "dataset/女/stroke_03.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "女",
+        "probabilities": [
+          {
+            "char": "女",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "图像中的汉字由三笔构成，笔画顺序和字形结构清晰可辨，完全符合汉字“女”的写法。第一笔为撇点，第二笔为撇，第三笔为横。该字形结构独特，没有其他常见的相似汉字会产生混淆。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "女",
+        "probabilities": [
+          {
+            "char": "女",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由“撇点”、“撇”和“横”三笔构成。其字形结构、笔画顺序和书写形态是汉字“女”的典型写法，具有极高的辨识度，不存在其他可能的相似单字。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "女",
+        "probabilities": [
+          {
+            "char": "女",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个完整的汉字。该字由“撇点”、“撇”和“横”三笔组成，其结构和笔顺完全符合汉字“女”的书写规范。字形清晰标准，不存在与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "女",
+        "probabilities": [
+          {
+            "char": "女",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由“撇点”、“撇”、“横”三笔构成。其笔画顺序、形态和结构组合是汉字“女”的典型写法，特征明确，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "女",
+        "probabilities": [
+          {
+            "char": "女",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由“撇点”、“撇”、“横”三笔组成。其笔画形态、顺序和结构组合明确指向汉字“女”。该字形为楷书标准写法，已书写完毕，无明显歧义。"
+      }
+    }
+  ]
+}

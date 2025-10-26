@@ -1,0 +1,44 @@
+{
+  "character": "寝",
+  "stroke_name": "stroke_11",
+  "image_path": "dataset/寝/stroke_11.png",
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "癎",
+        "probabilities": [
+          {
+            "char": "癎",
+            "p": 0.53
+          },
+          {
+            "char": "瘝",
+            "p": 0.35
+          },
+          {
+            "char": "瀉",
+            "p": 0.12
+          }
+        ],
+        "rationale": "该字为左右结构。左部为病字旁“疒”，字形清晰。右部为宝盖头“宀”下加一组件，其行书笔法最符合“宮”（gōng）的简化形态，组合成“癎”（xián）。主要的混淆点在于，右部组件的行书形态与“官”（guān）的简化形体也非常相似，可能误判为罕见字“瘝”（guān）。此外，也存在较小概率是“寫”（xiě）的草书写法，从而组合成“瀉”（xiè）。综合判断，“癎”为最可能答案。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": null
+    },
+    {
+      "run_id": 3,
+      "llm_output": null
+    },
+    {
+      "run_id": 4,
+      "llm_output": null
+    },
+    {
+      "run_id": 5,
+      "llm_output": null
+    }
+  ]
+}

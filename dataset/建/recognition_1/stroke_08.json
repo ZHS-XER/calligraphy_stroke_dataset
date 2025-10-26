@@ -1,0 +1,113 @@
+{
+  "character": "建",
+  "stroke_name": "stroke_08",
+  "image_path": "dataset/建/stroke_08.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "建",
+        "probabilities": [
+          {
+            "char": "建",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为标准的楷书“建”字。其结构为左半包围结构，左部为“廴”（建字旁），右部为“聿”。图像清晰，笔画完整，所有特征均明确指向“建”字，无其他形近字造成歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "建",
+        "probabilities": [
+          {
+            "char": "建",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个完整的汉字。其结构为半包围结构，左下部为走之底（建字旁“辶”），其内部为“聿”部。这两个部件组合构成了唯一的汉字“建”。该字形标准，笔画清晰，没有与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "建",
+        "probabilities": [
+          {
+            "char": "建",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为“建”。其结构为半包围结构，由左部的“建之旁”（走之底的变体）和右部的“聿”组成。图像中的笔画完整、清晰，结构标准，可以唯一确定为“建”字。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "建",
+        "probabilities": [
+          {
+            "char": "建",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构，笔画已全部完成。左部为建字底“廴”，右部为“聿”。这两个偏旁组合唯一地构成了汉字“建”。字形标准，无歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "建",
+        "probabilities": [
+          {
+            "char": "建",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为部首“廴”（建字旁），右部为声旁“聿”。该组合唯一地构成了汉字“建”。图像中的字形完整、清晰，笔画明确，无明显歧义。"
+      }
+    }
+  ]
+}

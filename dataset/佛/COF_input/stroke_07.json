@@ -1,0 +1,126 @@
+{
+  "character": "佛",
+  "stroke_name": "stroke_07",
+  "target_stroke": 7,
+  "remaining_strokes": 0,
+  "total_strokes": 7,
+  "input_frames": [
+    "stroke_01.png",
+    "stroke_03.png",
+    "stroke_04.png",
+    "stroke_05.png",
+    "stroke_07.png"
+  ],
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "佛",
+        "probabilities": [
+          {
+            "char": "佛",
+            "p": 0.9
+          },
+          {
+            "char": "彿",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "前两帧图像清晰地写出了汉字的左侧部首，即单人旁“亻”。从第三帧开始，在右侧书写“弗”部。最后一帧完整地展示了“亻”与“弗”组成的左右结构，可以唯一确定目标汉字为“佛”。“彿”字形相似，但部首为“彳”，与前序帧不符。"
+      },
+      "retry_count": 0
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "佛",
+        "probabilities": [
+          {
+            "char": "佛",
+            "p": 0.9
+          },
+          {
+            "char": "仍",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。前两帧首先写出左侧的“亻”部首。第三、四帧开始书写右侧部分，其形态为“弓”，使整体极像“仍”字。然而，最后一帧补充了关键的撇和竖笔，将右侧部分从“弓”补全为“弗”，从而唯一地构成了汉字“佛”。"
+      },
+      "retry_count": 57
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "佛",
+        "probabilities": [
+          {
+            "char": "佛",
+            "p": 0.9
+          },
+          {
+            "char": "彿",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "前两帧确定了左侧的“亻”部首。后续帧在右侧逐步构建了“弗”的结构。第五帧也是最后一帧，通过添加关键的竖笔完成了“弗”部，最终组合成了完整的汉字“佛”。"
+      },
+      "retry_count": 0
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "佛",
+        "probabilities": [
+          {
+            "char": "佛",
+            "p": 0.9
+          },
+          {
+            "char": "彿",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。前两帧清晰地展示了左侧的'亻'（单人旁）部首。随后的帧图像逐步勾勒出右侧的'弗'部。最后一帧完成了'弗'的所有笔画，明确地构成了汉字'佛'。"
+      },
+      "retry_count": 11
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "佛",
+        "probabilities": [
+          {
+            "char": "佛",
+            "p": 0.9
+          },
+          {
+            "char": "俘",
+            "p": 0.1
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "根据书写顺序，该字由左侧的“亻”部首和右侧的“弗”字旁构成。第一、二帧确定了单人旁“亻”；第三至第五帧逐步完成了右侧的“弗”部。最后一帧完整呈现了“佛”字的左右结构，没有其他高概率的候选汉字。"
+      },
+      "retry_count": 21
+    }
+  ]
+}

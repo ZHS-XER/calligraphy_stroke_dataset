@@ -1,0 +1,113 @@
+{
+  "character": "文",
+  "stroke_name": "stroke_04",
+  "image_path": "dataset/文/stroke_04.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "文",
+        "probabilities": [
+          {
+            "char": "文",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "图像中的汉字笔画已全部完成。该字由上方的点、中间的横以及下方的撇、捺组成，共四画。其结构清晰，是典型的楷书“文”字，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "文",
+        "probabilities": [
+          {
+            "char": "文",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个完整的汉字。其结构由上方的点、中间的横以及下方的撇捺交叉组成，这完全符合汉字“文”的结构特征。笔画清晰，形态标准，没有与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "文",
+        "probabilities": [
+          {
+            "char": "文",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像清晰地展示了一个完整的汉字。其结构由上方的点、中间的横以及下方的撇捺交叉组成，这是汉字“文”的典型标准结构。所有笔画均已完成，字形无歧义，因此可以唯一确定为“文”字。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "文",
+        "probabilities": [
+          {
+            "char": "文",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个笔画完整的汉字。其结构由上方的点、横和下方的撇、捺组成。这是汉字“文”的标准楷书写法，字形清晰，没有明显歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "文",
+        "probabilities": [
+          {
+            "char": "文",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由顶部的“点”、中间的“横”以及底部的“撇”和“捺”交叉构成。所有笔画均已完成，字形结构清晰、标准，唯一地指向汉字“文”，不存在明显的形近字歧义。"
+      }
+    }
+  ]
+}

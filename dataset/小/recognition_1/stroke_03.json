@@ -1,0 +1,113 @@
+{
+  "character": "小",
+  "stroke_name": "stroke_03",
+  "image_path": "dataset/小/stroke_03.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "小",
+        "probabilities": [
+          {
+            "char": "小",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由三笔构成：中间一竖钩，左右两边各一点。该笔画结构和形态是汉字“小”的典型写法，字形完整清晰，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "小",
+        "probabilities": [
+          {
+            "char": "小",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该图像展示了一个完整的三笔汉字。其结构为中间一竖钩，左侧为一撇，右侧为一点。该笔画组合和结构布局完全符合汉字“小”的标准写法。字形非常清晰，没有歧义，几乎不存在与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "小",
+        "probabilities": [
+          {
+            "char": "小",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由三笔构成：中间一竖钩，左右各一撇、一点。其笔画形态、数量和结构组合完全符合汉字“小”的标准写法。字形清晰，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "小",
+        "probabilities": [
+          {
+            "char": "小",
+            "p": 0.95
+          },
+          {
+            "char": "少",
+            "p": 0.05
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "图像中的汉字由一竖钩和左右两点组成，共三画。此为汉字“小”的典型写法，结构清晰，笔画完整，无明显歧义。因字形与“少”略有相似，故将其列为次要可能，但图中明显缺少“少”的第四笔撇画。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "小",
+        "probabilities": [
+          {
+            "char": "小",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字由一个居中的竖钩和左右两边的撇、捺（或点）组成，共三画。这是汉字“小”的典型、无歧义的楷书写法，且所有笔画均已完成。"
+      }
+    }
+  ]
+}

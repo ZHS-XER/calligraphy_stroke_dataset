@@ -1,0 +1,113 @@
+{
+  "character": "外",
+  "stroke_name": "stroke_05",
+  "image_path": "dataset/外/stroke_05.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "外",
+        "probabilities": [
+          {
+            "char": "外",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构，左部为“夕”字旁，右部为“卜”字。此结构唯一指向汉字“外”。图像中笔画完整清晰，字体为标准的楷书，没有歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "外",
+        "probabilities": [
+          {
+            "char": "外",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字所有笔画已完成。其结构为左右结构，左部为“夕”，右部为“卜”，两者结合唯一构成了汉字“外”。字形非常标准清晰，无歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "外",
+        "probabilities": [
+          {
+            "char": "外",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为标准的楷书“外”字。其结构为左右结构，左部为“夕”，右部为“卜”。字形完整清晰，笔画特征明确，没有与其他汉字产生混淆的可能。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "外",
+        "probabilities": [
+          {
+            "char": "外",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“夕”，右部为“卜”，所有笔画均已完成。字形结构清晰，无歧义，可以唯一确定为“外”字。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "外",
+        "probabilities": [
+          {
+            "char": "外",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为标准的左右结构汉字。左部为“夕”字旁，右部为“卜”字旁，二者结合唯一构成了“外”字。图像中的字体为楷书，笔画清晰，结构标准，不存在歧义。"
+      }
+    }
+  ]
+}

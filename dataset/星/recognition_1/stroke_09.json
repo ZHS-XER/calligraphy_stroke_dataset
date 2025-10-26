@@ -1,0 +1,113 @@
+{
+  "character": "星",
+  "stroke_name": "stroke_09",
+  "image_path": "dataset/星/stroke_09.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "星",
+        "probabilities": [
+          {
+            "char": "星",
+            "p": 0.9
+          },
+          {
+            "char": "是",
+            "p": 0.05
+          },
+          {
+            "char": "晁",
+            "p": 0.05
+          }
+        ],
+        "rationale": "该汉字为标准的上下结构。上部为“日”部，下部为“生”部，结合起来构成“星”字。该字的笔画完整清晰，结构标准，几乎没有产生歧义的可能。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "星",
+        "probabilities": [
+          {
+            "char": "星",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“日”字，下部为“生”字，组合构成“星”字。字形为标准楷书，笔画完整清晰，没有与其他汉字混淆的可能。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "星",
+        "probabilities": [
+          {
+            "char": "星",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“日”字，下部为“生”字，组合成“星”字。字形为标准楷书，笔画完整，结构清晰，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "星",
+        "probabilities": [
+          {
+            "char": "星",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“日”字，下部为“生”字。这两个部件组合在一起，唯一确定地构成了汉字“星”。该字笔画清晰，形态标准，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "星",
+        "probabilities": [
+          {
+            "char": "星",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构，上部为“日”字，下部为“生”字，组合而成“星”字。字形为楷书，结构清晰，笔画完整，无明显歧义。"
+      }
+    }
+  ]
+}

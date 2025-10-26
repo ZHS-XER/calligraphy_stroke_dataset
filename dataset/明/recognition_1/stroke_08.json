@@ -1,0 +1,113 @@
+{
+  "character": "明",
+  "stroke_name": "stroke_08",
+  "image_path": "dataset/明/stroke_08.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "明",
+        "probabilities": [
+          {
+            "char": "明",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“日”字旁，右部为“月”字旁。两者结合构成“明”字。字形为标准楷书，笔画清晰，结构明确，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "明",
+        "probabilities": [
+          {
+            "char": "明",
+            "p": 0.95
+          },
+          {
+            "char": "朋",
+            "p": 0.05
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构。左部为“日”字旁，右部为“月”字旁，组合成“明”字。该字形为标准的楷书字体，笔画完整清晰，无歧义。唯一极小的混淆可能来自将左侧的“日”误认为“月”，从而看成“朋”字，但可能性极低。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "明",
+        "probabilities": [
+          {
+            "char": "明",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为标准的左右结构。左部为“日”字，右部为“月”字。两者结合构成“明”字。该字为楷书字体，笔画完整清晰，结构明确，不存在任何可能的歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "明",
+        "probabilities": [
+          {
+            "char": "明",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为左右结构的合体字。左部为“日”字旁，右部为“月”字，组合成“明”字。字形为标准的楷书，笔画清晰、完整，结构明确，不存在与其他汉字的歧义。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "明",
+        "probabilities": [
+          {
+            "char": "明",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为左右结构。左部为“日”字旁，右部为“月”字旁，组合为“明”字。字形为标准楷书，笔画清晰完整，无明显歧义。"
+      }
+    }
+  ]
+}

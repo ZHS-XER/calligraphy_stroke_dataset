@@ -1,0 +1,113 @@
+{
+  "character": "弱",
+  "stroke_name": "stroke_10",
+  "image_path": "dataset/弱/stroke_10.png",
+  "remaining_strokes": 0,
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "弱",
+        "probabilities": [
+          {
+            "char": "弱",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构，由两个完全相同的“弜”部首堆叠而成。每个“弜”部由一个“弓”字框和其内部的两点组成。此结构唯一地指向汉字“弱”。该字为楷书风格，笔画清晰标准，不存在可能的歧义。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "弱",
+        "probabilities": [
+          {
+            "char": "弱",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰，由上下两个“弓”字部件堆叠而成，这是“弱”字的唯一标准结构。图像中的所有笔画均已完成，字形完整，没有明显的歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "弱",
+        "probabilities": [
+          {
+            "char": "弱",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构，由两个“弓”字部件叠加而成，是为“弱”字。字形结构标准，笔画清晰完整，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "弱",
+        "probabilities": [
+          {
+            "char": "弱",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构，由两个“弓”字堆叠而成。笔画和结构完整清晰，唯一指向“弱”字。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "弱",
+        "probabilities": [
+          {
+            "char": "弱",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构，由两个“弓”字部件垂直叠加构成。该结构唯一指向汉字“弱”。字形完整清晰，无歧义。"
+      }
+    }
+  ]
+}

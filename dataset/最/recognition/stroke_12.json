@@ -1,0 +1,112 @@
+{
+  "character": "最",
+  "stroke_name": "stroke_12",
+  "image_path": "dataset/最/stroke_12.png",
+  "runs": [
+    {
+      "run_id": 1,
+      "llm_output": {
+        "answer": "最",
+        "probabilities": [
+          {
+            "char": "最",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“日”部，下部为“取”部，组合而成“最”字。图像中的笔画清晰、完整，结构标准，无任何歧义，因此可以唯一确定为“最”字。"
+      }
+    },
+    {
+      "run_id": 2,
+      "llm_output": {
+        "answer": "最",
+        "probabilities": [
+          {
+            "char": "最",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字结构清晰，为标准的上下结构。上部为‘日’字，下部为‘取’字，二者组合唯一地构成了‘最’字。字形为楷书，笔画分明，无明显歧义。"
+      }
+    },
+    {
+      "run_id": 3,
+      "llm_output": {
+        "answer": "最",
+        "probabilities": [
+          {
+            "char": "最",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该字为标准的楷体字形，结构清晰，毫无歧义。上部为“日”，下部为“取”，二者结合唯一构成汉字“最”。字形标准，笔画分明，不存在其他可能产生混淆的相似汉字。"
+      }
+    },
+    {
+      "run_id": 4,
+      "llm_output": {
+        "answer": "最",
+        "probabilities": [
+          {
+            "char": "最",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构，字形清晰、标准。上部为“日”字，下部为“取”字。此组合唯一确定为汉字“最”，无其他形近字造成干扰。"
+      }
+    },
+    {
+      "run_id": 5,
+      "llm_output": {
+        "answer": "最",
+        "probabilities": [
+          {
+            "char": "最",
+            "p": 1.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          },
+          {
+            "char": null,
+            "p": 0.0
+          }
+        ],
+        "rationale": "该汉字为上下结构。上部为“日”字，下部为“取”字，组合构成“最”字。字形为标准楷书，笔画清晰，结构明确，无明显歧义。"
+      }
+    }
+  ]
+}
