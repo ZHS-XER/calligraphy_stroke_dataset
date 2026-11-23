@@ -6,6 +6,7 @@ Chain-of-Frames 输入识别脚本
 结果保存到各字符的 COF_input/ 文件夹
 """
 
+import os
 import requests
 import base64
 import json
@@ -18,7 +19,7 @@ from tqdm import tqdm
 
 # API配置
 API_URL = "https://llm.q2zy.com/v1/chat/completions"
-API_KEY = "MUSO_API_KEY_REMOVED"
+API_KEY = os.environ.get("MUSO_API_KEY", "")
 
 HEADERS = {
     "Content-Type": "application/json",

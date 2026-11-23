@@ -6,6 +6,7 @@
 重新进行 API 调用，更新 JSON 文件
 """
 
+import os
 import requests
 import base64
 import json
@@ -17,7 +18,7 @@ import argparse
 
 # API配置
 API_URL = "https://llm.q2zy.com/v1/chat/completions"
-API_KEY = "MUSO_API_KEY_REMOVED"
+API_KEY = os.environ.get("MUSO_API_KEY", "")
 
 HEADERS = {
     "Content-Type": "application/json",

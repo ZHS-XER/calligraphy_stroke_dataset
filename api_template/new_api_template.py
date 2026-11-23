@@ -1,5 +1,6 @@
 # 新的 API 的调用模板 - 正确的图像识别格式
 
+import os
 import requests
 import base64
 
@@ -7,7 +8,7 @@ url = "https://llm.q2zy.com/v1/chat/completions"
 
 headers = {
     "Content-Type": "application/json",
-    "Authorization": "Bearer MUSO_API_KEY_REMOVED"
+    "Authorization": "Bearer " + os.environ.get("MUSO_API_KEY", "")
 }
 
 def image_to_base64(image_path):

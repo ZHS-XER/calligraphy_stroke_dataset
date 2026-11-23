@@ -3,6 +3,7 @@
 使用大模型识别汉字笔画数和笔画顺序
 """
 
+import os
 import requests
 import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -12,7 +13,7 @@ from typing import Dict, List, Optional
 
 # API配置
 API_URL = "https://llm.q2zy.com/v1/chat/completions"
-API_KEY = "MUSO_API_KEY_REMOVED"
+API_KEY = os.environ.get("MUSO_API_KEY", "")
 
 HEADERS = {
     "Content-Type": "application/json",

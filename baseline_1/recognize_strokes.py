@@ -23,7 +23,7 @@ from datetime import datetime
 
 # API配置
 API_URL = "https://llm.q2zy.com/v1/chat/completions"
-API_KEY = "MUSO_API_KEY_REMOVED"
+API_KEY = os.environ.get("MUSO_API_KEY", "")
 
 HEADERS = {
     "Content-Type": "application/json",
