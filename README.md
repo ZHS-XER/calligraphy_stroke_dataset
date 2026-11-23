@@ -1,3 +1,5 @@
+> The reorganized MUSO source, dataset, and setup instructions are in [muso/](muso/).
+
 # 汉字笔画数据集
 
 - 由https://www.an2.net/zi/获取自动生成的带笔顺字帖 pdf 文件
